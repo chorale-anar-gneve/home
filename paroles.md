@@ -1,10 +1,5 @@
 # Paroles
 
-> B : basse<br />
-> T : ténor<br />
-> A : alto<br />
-> S : soprano<br />
-
 ## Sommaire
 ### En Français
 [Allez les gars](#allez-les-gars)<br />
@@ -23,6 +18,17 @@
 [L'estaca](#lestaca)<br />
 [Here's to you](#heres-to-you)<br />
 [The digger's song](#the-diggers-song)<br />
+
+## Pianos en ligne
+- [online piano 1 - online pianist](https://www.onlinepianist.com/virtual-piano)
+- [online piano 2 - musicca](https://www.musicca.com/piano)
+- [online piano 3 - virtual piano](https://virtualpiano.net)
+
+## Abbréviations
+> B : basse<br />
+> T : ténor<br />
+> A : alto<br />
+> S : soprano<br />
 
 ## Allez les gars
 [top](#paroles) <br />
@@ -165,56 +171,56 @@ Des millions à vous crier<br />
 
 > BTAS : si si si si<br />
 
-1. *(S+A, lent, croches:)*<br />
-Makhnovtchina, Makhnovtchina, <br />
+*(S+A, lent, croches:)*<br />
+1. Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 
-2. *(Tutti, rapide, croches pointées:)*<br />
-Par les monts et par les plaines, <br />
+*(Tutti, rapide, croches pointées:)*<br />
+2. Par les monts et par les plaines, <br />
 Dans la neige et dans le vent, <br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 
-3. *(Tutti, rapide, croches pointées:)*<br />
-||| Au printemps ||| les traités - de Léniiine<br />
+*(Tutti, rapide, croches pointées:)*<br />
+3. ||| Au printemps ||| les traités - de Léniiine<br />
 Ont livré l'Ukraine aux Allemands. <br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-4. *(Tutti, rapide, croches pointées:)*<br />
-L'armée blanche de Dénikine<br />
+*(Tutti, rapide, croches pointées:)*<br />
+4. L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-5. *(Tutti, rapide, croches pointées:)*<br />
-Makhnovtchina, Makhnovtchina,<br />
+*(Tutti, rapide, croches pointées:)*<br />
+5. Makhnovtchina, Makhnovtchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-6. *(Tutti, rapide, croches pointées:)*<br />
-Makhnovtchina, Makhnovtchina, <br />
+*(Tutti, rapide, croches pointées:)*<br />
+6. Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-7. *(S+A, lent, croches:)*<br />
-Makhnovtchina, Makhnovtchina <br />
+*(S+A, lent, croches:)*<br />
+7. Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
@@ -383,7 +389,8 @@ ouuu | *(T+A+B:)* N'a rien eu de plus urgent<br />
 ouuu | *(T+B:)* Que de le dire à l'école<br />
 ouuu | *(T+B)* À son voisin Pierre-Jean<br />
 
-2. *(Tutti:)* Clémence, Clémence<br />
+*(Tutti:)*
+2. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
@@ -399,7 +406,8 @@ ouuu | *(T+A+B:)* Avait pu l'handicaper<br />
 ouuu | *(T+B:)* Ou encore une dispute<br />
 ouuu | *(T+B)* Avec ce brave Honoré<br />
 
-4. *(Tutti:)* Clémence, Clémence<br />
+*(Tutti:)*
+4. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
@@ -415,7 +423,8 @@ ouuu | *(T+A+B:)* Elle reste en son fauteuil<br />
 ouuu | *(T+B:)* Un peu de malice flambe<br />
 ouuu | *(T+B)* Parfois au bord de son œil<br />
 
-6. *(Tutti:)* Clémence, Clémence<br />
+*(Tutti:)*
+6. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
@@ -431,7 +440,8 @@ ouuu | *(T+A+B:)* De coudre un bouton perdu<br />
 ouuu | *(T+B:)* Elle répond dans un sourire<br />
 ouuu | *(T+B)* Va, j'ai bien assez cousu<br />
 
-8. *(Tutti:)* Clémence, Clémence<br />
+*(Tutti:)*
+8. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
@@ -447,7 +457,8 @@ ouuu | *(T+A+B:)* Dans l'histoire, le plus fort<br />
 ouuu | *(T+B:)* N'est pas qu'elle ne veuille rien faire<br />
 ouuu | *(T+B)* Mais n'en ait aucun remords<br />
 
-10. *(Tutti:)* Clémence, Clémence<br />
+*(Tutti:)*
+10. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
@@ -463,7 +474,8 @@ ouuu | *(T+A+B:)* De rire et parler tout bas<br />
 ouuu | *(T+B:)* La maladie de Clémence<br />
 ouuu | *(T+B)* Pourrait bien s'étendre là<br />
 
-12. *(Tutti:)* Toutes les Clémence<br />
+*(Tutti:)*
+12. Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
@@ -616,82 +628,88 @@ pour profiter de nos combats<br />
 
 > BTAS : mi♭
 
+ *(Tutti:)*<br />
 1. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-  *(B+A+S:)* | *(T:)*
-2.  doum doum doum... | Moi, c’est Paul et j’ai pas de chaussettes<br />
+  *(B+A+S:)* | *(T:)*<br />
+2. doum doum doum... | Moi, c’est Paul et j’ai pas de chaussettes<br />
 doum doum...  | Ca fait mal aux pieds quand je vais travailler<br />
 doum doum... | J’ai trois gosses et six loyers de dettes<br /> 
 *(Tutti:)* Et je vais coucher dans la cage d’escalier<br />
 
-  *(B+T+S)* | *(A:)*
+  *(B+T+S)* | *(A:)*<br />
 3. doum doum doum... | Moi, c’est Sam et j’ai pas de chaussures<br />
 doum doum...  | Ca fait deux cent jours que j’ai pas travaillé<br />
 doum doum...  | Ce matin, j’ai tiré trois voitures<br />
 *(Tutti:)* Et j’ai jeté les clés dans la cage d’escalier<br />
 
+ *(Tutti:)*<br />
 4. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-  *(T+A+S:)* | *(B:*)
+  *(T+A+S:)* | *(B:*)<br />
 5. doum doum doum... | Moi c’est Ben, j’ai froid j’ai plus de gants<br />
 doum doum... | Et le marteau piqueur ça fait mal à mes dents !<br />
 doum doum... | Plus que j’peine et moins que j’ai d’argent<br />
 *(Tutti:)* Alors je vais pisser dans la cage d’escalier<br />
 
-  *(B+T+S)* | *(A:)*
+  *(B+T+S)* | *(A:)*<br />
 6. doum doum doum... | Moi c’est Sam et j’ai les doigts qui gèlent<br />
 doum doum... | Ca fait huit cent jours que j’ai pas travaillé<br />
 doum doum... | Ce matin, j’ai bouffé les poubelles <br />
-*(Tutti:)* Et j’ai tagué « ta gueule » dans la cage d’escalier<br />
+*(Tutti:)* <br />
+Et j’ai tagué « ta gueule » dans la cage d’escalier<br />
 
+ *(Tutti:)*<br />
 7. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-  *(B+T+A)* | *(S:)*
+  *(B+T+A:)* | *(S:)*<br />
 8. doum doum doum... | Moi, c’est Jeanne, viré de la Lyonnaise<br />
 doum doum... | J’alignais des zéros sur des comptes truqués<br />
 doum doum... | Mais j’ai jamais su monter les mayonnaises et<br />
 *(Tutti:)* Depuis je vais pointer dans la cage d’escalier<br />
 
-  *(B+T+S)* | *(A:)*
+  *(B+T+S:)* | *(A:)*<br />
 9. doum doum doum... | Moi c’est Sam et j’ai les plombs qui pètent<br />
 doum doum... | A nous la monseigneur de monsieur le curé<br />
 doum doum... | Quand c’est vide, tirez la chevillette <br />
 *(Tutti:)* Pétez les bobinettes dans les cages d’escalier ! <br />
 
+ *(Tutti:)*<br />
 10. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
+ *(Tutti:)*<br />
 11. *__Paul et Ben et Jeanne, Sam : c’est nous !<br />
 Paul et Ben et Jeanne, Sam : c’est nous !__*<br />
 
-12. *(Tutti, scandé ou chanté :)* <br />
-Nous c’est tout, c’est rien pour la bourgeoise.<br />
+*(Tutti, scandé ou chanté:)* <br />
+12. Nous c’est tout, c’est rien pour la bourgeoise.<br />
 Mais quand ça pousse en bas, ça fait peur aux banquiers !<br />
 Y a des sous pour payer les ardoises<br />
 Et on est quatre-vingt dans la cage d’escalier !<br />
 
-13. *(Tutti, scandé ou chanté :)* <br />
-Quatre-vingt c’est peu mais ça commence :<br />
+*(Tutti, scandé ou chanté:)* <br />
+13. Quatre-vingt c’est peu mais ça commence :<br />
 Ca fait des millions qui vont pas travailler.<br />
 Droit devant ! Le nez dans vos finances !<br />
 On va tout faire sauter dans les cages d’escalier !<br />
 
-14. *(doucement :)* <br />
-__Craches le feu, l’amour et dit ton nom !<br />
+*(doucement:)* <br />
+14. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !__<br />
-*(fort :)*<br />
+*(fort:)*<br />
 __Qu'on l'entendE dans la rue Royaume__ <br />
 
 ## Bella Ciao
@@ -699,7 +717,8 @@ __Qu'on l'entendE dans la rue Royaume__ <br />
 
 > BTAS : si → mi
 
-1. *(lent :)* Una mattina mi son svegliata<br />
+*(lent :)*
+1. Una mattina mi son svegliata<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 una mattina mi son svegliata<br />
 e ho trovato l'invasor<br />
@@ -709,7 +728,8 @@ __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e fra gl'insetti e le zanzare<br />
 un dur lavor ci tocca far.<br />
 
-3. *(rapide :)* Il capo'in piedi - col suo bastone<br />
+*(rapide :)*
+3. Il capo'in piedi - col suo bastone<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 il capo'in piedi col suo bastone<br />
 e noi curve a lavorar.<br />
@@ -724,12 +744,14 @@ __o bella ciao, bella ciao, bella ciao, ciao, ciao__ <br />
 e so che muoio perché son donna<br />
 e non mi voglio rassegnar.<br />
 
-6. *(lent :)* Mi seppellirai - lassù'in montagna<br />
+*(lent :)*
+6. Mi seppellirai - lassù'in montagna<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 mi seppellirai lassù'in montagna<br />
 _ sotto l'ombra d'un bel fior<br />
 
-7. *(rapide :)* E quest'é'il fiore - dei partigiani<br />
+*(rapide :)*
+7. E quest'é'il fiore - dei partigiani<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e quest'é'il fiore dei partigiani<br />
 `_morti per la libertà<br />
@@ -832,13 +854,15 @@ ou ou ou ou ou *(S+T:)* No olvide sus nombres, por favor<br />
 ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
 ...-ouu-ou | Por todas las madres buscando en Tijuana <br />
 
-5. *(Tutti:)* Cantamos sin miedo, pedimos justicia<br />
+ *(Tutti:)* 
+5. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
 *(B:)* ..."¡nos queremos vivas!" | *(T:)* ...ou-ou-ou-ou | *(A+S:*) Que resuene fuerte "¡nos queremos vivas!"<br />
 *(T:)* ouuu-ou | *(A+S:)* Que caiga con fuerza<br />
 *(Tutti:)* el feminicida<br />
 
-6. *(S, et tutti en gras:)* Yo todo **lo incendio**, yo todo **lo rompo**<br />
+*(S, et tutti en gras:)*
+6. Yo todo **lo incendio**, yo todo **lo rompo**<br />
 Si un día algún **fulano** te apaga **los ojos**<br />
 Ya nada **me calla**, ya todo **me sobra**<br />
 Si tocan a **una**, respondemos **todas**<br />
@@ -850,7 +874,8 @@ Aah-aah... | Soy Ingrid, soy Fabiola y soy Valeria<br />
 *(T+A:)* ou-ou-ouuu | *(S:)* Soy la madre que ahora llora por sus muertas<br />
 *(Tutti:)* Y soy esta que te hará pagar las cuentas<br />
 
-8. *(B→T→A→S:)* ¡Justicia, justicia, justicia, justicia!<br />
+*(B→T→A→S:)*
+8. ¡Justicia, justicia, justicia, justicia!<br />
 
   *(B+T+S:)* | *(A:)*
 9. ouu-ouu-... | Por todas las compas marchando en Reforma<br />
@@ -858,7 +883,8 @@ Aah-aah... | Soy Ingrid, soy Fabiola y soy Valeria<br />
 ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
 ...-ouu-ou | Por todas las madres buscando en Tijuana <br />
 
-10.  *(Tutti:)* Cantamos sin miedo, pedimos justicia<br />
+*(Tutti:)*
+10. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
 *(B:)* ..."¡nos queremos vivas!" | *(T:)* ...ou-ou-ou-ou | *(A+S:*) Que resuene fuerte "¡nos queremos vivas!"<br />
 *(T:)* ouuu-ou | *(A+S:)* Que caiga con fuerza<br />
