@@ -35,7 +35,7 @@
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
- *(TAS :)* | *(B, avec levée :)*<br />
+- *(TAS :)* | *(B, avec levée :)*<br />
 1. ... ouuuu | Oh, je n’oublierai pas devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
@@ -170,7 +170,7 @@ Des millions à vous crier<br />
 
 > BTAS : si si si si<br />
 
-*(S+A, lent, croches:)*<br />
+- *(S+A, lent, croches:)*<br />
 1. Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
