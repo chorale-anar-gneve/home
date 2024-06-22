@@ -35,63 +35,63 @@
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
- *(TAS :)* | *(B, avec levée :)*
+ *(TAS :)* | *(B, avec levée :)*<br />
 1. ... ouuuu | Oh, je n’oublierai pas devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
 Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux <br />
 
-3. Ouuuu ouuuu | D’abord on s’avançait en frappant dans les mains <br />
+2. Ouuuu ouuuu | D’abord on s’avançait en frappant dans les mains <br />
 Ouuuu ouuuu | Y en avait parmi eux des vraies têtes de gamins <br />
 Ouuuu ouuuu | Les regards s’affrontaient, face à face, de tout près <br />
 Ouuuu ouuuuu | Eux devaient la boucler, nous pas, et on chantait <br />
 
-4. *(Tutti :)* __Allez les gars combien on vous paye <br />
+3. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-5. ↓Combien ça vaut, quel est le prix<br />
+4. ↓Combien ça vaut, quel est le prix<br />
 ↓De te faire détester ainsi<br />
 Par tout ces gens qu’tu connais pas <br />
 Qui sans ça n’auraient rien contr’toi <br />
 
-6. ↑Tu sais nous on n’est pas méchant-e-s<br />
+5. ↑Tu sais nous on n’est pas méchant-e-s<br />
 ↑On ne grenade pas les enfants<br />
 On nous attaque, on se défend <br />
 Désolé si c’est toi qui prends <br />
 
-7. __Allez les gars combien on vous paye <br />
+6. __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-8. ↓Pense à ceux pour qui tu travailles<br />
+7. ↓Pense à ceux pour qui tu travailles<br />
 ↓Qu’on voit jamais dans la bataille<br />
 Pendant qu’tu encaisses des cailloux <br />
 Les actionnaires ramassent les sous <br />
 
-9. ↑Avoue franchement, c’est quand même pas<br />
+8. ↑Avoue franchement, c’est quand même pas<br />
 ↑La vie qu’t’avais rêvé pour toi,<br />
 Cogner des gens pour faire tes heures <br />
 T’aurais mieux fait d’rester chômeur<br />
 
-10. __Allez les gars combien on vous paye<br />
+9. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-11. ↓Je ne me fais guère d’illusions<br />
+10. ↓Je ne me fais guère d’illusions<br />
 ↓Sur la portée de cette chanson<br />
 Je sais qu’tu vas pas hésiter <br />
 Dans deux minutes à m’castagner <br />
 
-12. ↑Je sais qu’tu vas pas hésiter<br />
+11. ↑Je sais qu’tu vas pas hésiter<br />
 ↑T’es bien dressé, baratiné,<br />
 Mais au moins j’aurai essayé <br />
 Avant les bosses de te causer<br />
 
-13. __Allez les gars combien on vous paye<br />
+12. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
