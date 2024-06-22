@@ -29,8 +29,8 @@
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
+ *(TAS :)* | *(B :)*
 1. *(Levée B :)* Oh, je n’oublierai pas<br />
-  *(TAS :)* | *(B :)*
 Ouuuu | Devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
@@ -938,7 +938,7 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 
 ### Version en catalan
 
-[Aller à la version en français](#version-en-français) | [top](#paroles) <br />
+[Aller à la version en français](#version-en-français) - [top](#paroles) <br />
 
 > BTAS : la
 
