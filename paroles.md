@@ -29,9 +29,9 @@
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
- *(TAS :)* | *(B :)*
-1. *(Levée B :)* Oh, je n’oublierai pas<br />
-Ouuuu | Devant nous, les casqués<br />
+ *(TAS :)* | *(B, avec levée :)*
+1. Oh, je n’oublierai pas<br />
+Ouuuu       | Devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
 Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux <br />
@@ -165,7 +165,7 @@ Des millions à vous crier<br />
 
 > BTAS : si si si si<br />
 
-1. *(S+A, lent, croches :)*<br />
+1. *(S+A, lent, croches:)*<br />
 Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
@@ -173,7 +173,7 @@ Ils sont rouges de notre sang. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 
-2. *(Tutti, rapide, croches pointées :)*<br />
+2. *(Tutti, rapide, croches pointées:)*<br />
 Par les monts et par les plaines, <br />
 Dans la neige et dans le vent, <br />
 A travers toute l'Ukraine, <br />
@@ -181,7 +181,7 @@ Se levaient nos partisans.<br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 
-3. *(Tutti, rapide, croches pointées :)*<br />
+3. *(Tutti, rapide, croches pointées:)*<br />
 ||| Au printemps ||| les traités - de Léniiine<br />
 Ont livré l'Ukraine aux Allemands. <br />
 A l'automne la Makhnovtchina <br />
@@ -189,7 +189,7 @@ Les avaient jetés au vent.<br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-4. *(Tutti, rapide, croches pointées :)*<br />
+4. *(Tutti, rapide, croches pointées:)*<br />
 L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
@@ -197,7 +197,7 @@ L'a dispersée dans le vent. <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-5. *(Tutti, rapide, croches pointées :)*<br />
+5. *(Tutti, rapide, croches pointées:)*<br />
 Makhnovtchina, Makhnovtchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
@@ -205,7 +205,7 @@ Contre les rouges et les blancs<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-6. *(Tutti, rapide, croches pointées :)*<br />
+6. *(Tutti, rapide, croches pointées:)*<br />
 Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
@@ -213,7 +213,7 @@ A jamais tous les tyrans. <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-7. *(S+A, lent, croches :)*<br />
+7. *(S+A, lent, croches:)*<br />
 Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
@@ -229,8 +229,8 @@ Ils sont rouges de notre sang.<br />
 
 > BTAS : la la ré ré 
 
-  *(T?+A+S)* | *(T?+A+S)* 
-1. oooh oooh | *(B+T?)* Ce soir je meurs à la guerre <br />
+  *(T?+A+S)* | *(B+T?)*
+1. oooh oooh | Ce soir je meurs à la guerre <br />
 oooh oooh | Aujourd’hui pour moi sonne le glas <br />
 oooh oooh | Mon visage est blanc et mon sang coule à flot<br />
 oooh oooh | Sur le trottoir de la rue des Lilas<br />
@@ -873,7 +873,7 @@ aaaah... | Al sororo rugir del amor<br />
 ## L'estaca 
 ### Version en français 
 
-[aller à la version en catalan](#version-en-catalan) | [top](#paroles) <br />
+[aller à la version en catalan](#version-en-catalan) - [top](#paroles) <br />
 
 > BTAS : la
 
