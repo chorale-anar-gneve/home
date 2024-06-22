@@ -29,63 +29,64 @@
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
-1. *(Levée B :)* Oh, je n’oublierai pas<br /> 
-*(TAS :)* Ouuuu | *(B :)* devant nous, les casqués<br />
+1. *(Levée B :)* Oh, je n’oublierai pas<br />
+  *(TAS :)* | *(B :)*
+Ouuuu | Devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
-Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux. <br />
+Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux <br />
 
-2. Ouuuu ouuuu | D’abord on s’avançait en frappant dans les mains <br />
+3. Ouuuu ouuuu | D’abord on s’avançait en frappant dans les mains <br />
 Ouuuu ouuuu | Y en avait parmi eux des vraies têtes de gamins <br />
 Ouuuu ouuuu | Les regards s’affrontaient, face à face, de tout près <br />
 Ouuuu ouuuuu | Eux devaient la boucler, nous pas, et on chantait <br />
 
-3. *(Tutti :)* __Allez les gars combien on vous paye <br />
+4. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-4. ↓Combien ça vaut, quel est le prix<br />
+5. ↓Combien ça vaut, quel est le prix<br />
 ↓De te faire détester ainsi<br />
 Par tout ces gens qu’tu connais pas <br />
 Qui sans ça n’auraient rien contr’toi <br />
 
-5. ↑Tu sais nous on n’est pas méchant-e-s<br />
+6. ↑Tu sais nous on n’est pas méchant-e-s<br />
 ↑On ne grenade pas les enfants<br />
 On nous attaque, on se défend <br />
 Désolé si c’est toi qui prends <br />
 
-6. __Allez les gars combien on vous paye<br />
+7. __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-7. ↓Pense à ceux pour qui tu travailles<br />
+8. ↓Pense à ceux pour qui tu travailles<br />
 ↓Qu’on voit jamais dans la bataille<br />
 Pendant qu’tu encaisses des cailloux <br />
 Les actionnaires ramassent les sous <br />
 
-8. ↑Avoue franchement, c’est quand même pas<br />
+9. ↑Avoue franchement, c’est quand même pas<br />
 ↑La vie qu’t’avais rêvé pour toi,<br />
 Cogner des gens pour faire tes heures <br />
 T’aurais mieux fait d’rester chômeur<br />
 
-9. __Allez les gars combien on vous paye<br />
+10. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-10. ↓Je ne me fais guère d’illusions<br />
+11. ↓Je ne me fais guère d’illusions<br />
 ↓Sur la portée de cette chanson<br />
 Je sais qu’tu vas pas hésiter <br />
 Dans deux minutes à m’castagner <br />
 
-11. ↑Je sais qu’tu vas pas hésiter<br />
+12. ↑Je sais qu’tu vas pas hésiter<br />
 ↑T’es bien dressé, baratiné,<br />
 Mais au moins j’aurai essayé <br />
 Avant les bosses de te causer<br />
 
-12. __Allez les gars combien on vous paye<br />
+13. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
@@ -228,7 +229,8 @@ Ils sont rouges de notre sang.<br />
 
 > BTAS : la la ré ré 
 
-1. *(T?+A+S)* oooh oooh | *(B+T?)* Ce soir je meurs à la guerre <br />
+  *(T?+A+S)* | *(T?+A+S)* 
+1. oooh oooh | *(B+T?)* Ce soir je meurs à la guerre <br />
 oooh oooh | Aujourd’hui pour moi sonne le glas <br />
 oooh oooh | Mon visage est blanc et mon sang coule à flot<br />
 oooh oooh | Sur le trottoir de la rue des Lilas<br />
@@ -308,8 +310,7 @@ loo loo loo<br />
 
 2. Je suis fille d’Amazigh, qui garde vos enfants<br />
 FillE de Chibani, peintre en bâtiment<br />
-P’tite
-fille de Polonais, mineur près de Noyelle<br />
+P’tite fille de Polonais, mineur près de Noyelle<br />
 Fille de Sénégalaise qui brique vos hôtels<br /><br />
 Ouvrière tunisienne, qu’exploitent des Français·es<br />
 Pa-ysanne bolivienne, qu’on a expropriée<br />
@@ -328,8 +329,7 @@ Enfant palestinienne qui vous jette des pierres<br /><br />
 Je suis fille de sorcière que l’on a pas brûlée<br />
 J’accompagne les naissances et j’aide à avorter<br />
 Je soigne aussi nos mort·es pour qu’on reste vivant·es<br />
-Je n’ai pas de pays, je suis 
-fillE du vent<br />
+Je n’ai pas de pays, je suis fillE du vent<br />
 
 5. Loo loo loo<br />
 loo loo loo<br />
@@ -343,8 +343,7 @@ Je revendiquerai les chemins de bocage<br /><br />
 Je suis fillE des mers, on ne m’a pas noyée<br />
 Cessez de m’exploiter, cessez d’avoir pitié<br />
 MigrantE combattante pour me réinventer<br />
-C’était sujet de honte, j’en ferai ma 
-fierté<br />
+C’était sujet de honte, j’en ferai ma fierté<br />
 
 7. Loo loo loo<br />
 loo loo loo<br />
@@ -622,12 +621,14 @@ Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-2. *(B+A+S:)* doum doum doum... | *(T:)* Moi, c’est Paul et j’ai pas de chaussettes<br />
+  *(B+A+S:)* | *(T:)*
+2.  doum doum doum... | Moi, c’est Paul et j’ai pas de chaussettes<br />
 doum doum...  | Ca fait mal aux pieds quand je vais travailler<br />
 doum doum... | J’ai trois gosses et six loyers de dettes<br /> 
 *(Tutti:)* Et je vais coucher dans la cage d’escalier<br />
 
-3. *(B+T+S)* doum doum doum... | *(A:)* Moi, c’est Sam et j’ai pas de chaussures<br />
+  *(B+T+S)* | *(A:)*
+3. doum doum doum... | Moi, c’est Sam et j’ai pas de chaussures<br />
 doum doum...  | Ca fait deux cent jours que j’ai pas travaillé<br />
 doum doum...  | Ce matin, j’ai tiré trois voitures<br />
 *(Tutti:)* Et j’ai jeté les clés dans la cage d’escalier<br />
@@ -637,12 +638,14 @@ Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-5. *(T+A+S:)* doum doum doum... | *(B:*) Moi c’est Ben, j’ai froid j’ai plus de gants<br />
+  *(T+A+S:)* | *(B:*)
+5. doum doum doum... | Moi c’est Ben, j’ai froid j’ai plus de gants<br />
 doum doum... | Et le marteau piqueur ça fait mal à mes dents !<br />
 doum doum... | Plus que j’peine et moins que j’ai d’argent<br />
 *(Tutti:)* Alors je vais pisser dans la cage d’escalier<br />
 
-6. *(B+T+S)* doum doum doum... | *(A:)* Moi c’est Sam et j’ai les doigts qui gèlent<br />
+  *(B+T+S)* | *(A:)*
+6. doum doum doum... | Moi c’est Sam et j’ai les doigts qui gèlent<br />
 doum doum... | Ca fait huit cent jours que j’ai pas travaillé<br />
 doum doum... | Ce matin, j’ai bouffé les poubelles <br />
 *(Tutti:)* Et j’ai tagué « ta gueule » dans la cage d’escalier<br />
@@ -652,12 +655,14 @@ Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-8. *(B+T+A)* doum doum doum... | *(S:)* Moi, c’est Jeanne, viré de la Lyonnaise<br />
+  *(B+T+A)* | *(S:)*
+8. doum doum doum... | Moi, c’est Jeanne, viré de la Lyonnaise<br />
 doum doum... | J’alignais des zéros sur des comptes truqués<br />
 doum doum... | Mais j’ai jamais su monter les mayonnaises et<br />
 *(Tutti:)* Depuis je vais pointer dans la cage d’escalier<br />
 
-9. *(B+T+S)* doum doum doum... | *(A:)* Moi c’est Sam et j’ai les plombs qui pètent<br />
+  *(B+T+S)* | *(A:)*
+9. doum doum doum... | Moi c’est Sam et j’ai les plombs qui pètent<br />
 doum doum... | A nous la monseigneur de monsieur le curé<br />
 doum doum... | Quand c’est vide, tirez la chevillette <br />
 *(Tutti:)* Pétez les bobinettes dans les cages d’escalier ! <br />
@@ -807,19 +812,22 @@ O libertà o morte!<br />
 
 1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
 
-2. *(T+A+S:)* ou ou ou | *(B:)* Que tiemble el Estado, los cielos, las calles<br />
+  *(T+A+S:)* | *(B:)*
+2. ou ou ou | Que tiemble el Estado, los cielos, las calles<br />
 ou ou ou | Que tiemblen los jueces y los judiciales<br />
 ou ou ou ou | Hoy a las mujeres nos quitan la calma<br />
 ah-ah-ah | Nos sembraron miedo<br />
 aaah | nos crecieron alas<br />
 
-3. *(B+A+S:)* ou ou ou | *(T:)* A cada minuto, de cada semana<br />
+  *(B+A+S:)* | *(T:)*
+3. ou ou ou | A cada minuto, de cada semana<br />
 ou ou ou | Nos roban amigas, nos matan hermanas<br />
 ou ou ou | Destrozan sus cuerpos, los desaparecen<br />
 ou ou ou ou ou *(S+T:)* No olvide sus nombres, por favor<br />
 *(Tutti)* señor presidente<br />
 
-4. *(B+T+S:)* ouu-ouu-... | *(A:)* Por todas las compas marchando en Reforma<br />
+  *(B+T+S:)* | *(A:)*
+4. ouu-ouu-... | Por todas las compas marchando en Reforma<br />
 ...ouu-ouu | Por todas las morras peleando en Sonora<br />
 ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
 ...-ouu-ou | Por todas las madres buscando en Tijuana <br />
@@ -835,7 +843,8 @@ Si un día algún **fulano** te apaga **los ojos**<br />
 Ya nada **me calla**, ya todo **me sobra**<br />
 Si tocan a **una**, respondemos **todas**<br />
 
-7. *(B+A:)* Aaah-aaah... | *(S+T:*) Soy Claudia, soy Esther y soy Teresa<br />
+  *(B+A:)* | *(S+T:*)
+7. Aaah-aaah... | Soy Claudia, soy Esther y soy Teresa<br />
 Aah-aah... | Soy Ingrid, soy Fabiola y soy Valeria<br />
 *(Tutti:)* Soy la niña que subiste por la fuerza<br />
 *(T+A:)* ou-ou-ouuu | *(S:)* Soy la madre que ahora llora por sus muertas<br />
@@ -843,7 +852,8 @@ Aah-aah... | Soy Ingrid, soy Fabiola y soy Valeria<br />
 
 8. *(B→T→A→S:)* ¡Justicia, justicia, justicia, justicia!<br />
 
-9. *(B+T+S:)* ouu-ouu-... | *(A:)* Por todas las compas marchando en Reforma<br />
+  *(B+T+S:)* | *(A:)*
+9. ouu-ouu-... | Por todas las compas marchando en Reforma<br />
 ...ouu-ouu | Por todas las morras peleando en Sonora<br />
 ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
 ...-ouu-ou | Por todas las madres buscando en Tijuana <br />
@@ -854,7 +864,8 @@ Gritamos por cada desaparecida<br />
 *(T:)* ouuu-ou | *(A+S:)* Que caiga con fuerza<br />
 *(Tutti:)* el feminicida<br />
 
-11. *(B+A:)* Aaaah | *(T+S, lento:)* Y retiemblen sus centros la tierra<br />
+  *(B+A:)* | *(T+S, lento:)*
+11. Aaaah | Y retiemblen sus centros la tierra<br />
 aaaah... | Al sororo rugir del amor<br />
 aaaah... | Y retiemblen sus centros la tierra<br />
 aaaah... | Al sororo rugir del amor<br />
