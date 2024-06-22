@@ -6,7 +6,7 @@
 
 ## évènements à venir 
 
-- 22 juin : participation à la fête de la musique (~15h, passage du Teraillet puis mobile)
+- 22 juin : participation à la fête de la musique (~15h, passage du Terraillet puis mobile)
 - 27 juin : répétition (Canción, Digger's song, Le pieu, +/- Les voleurs d'eau)
 
 ## liens
