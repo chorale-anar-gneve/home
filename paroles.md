@@ -36,8 +36,7 @@
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
  *(TAS :)* | *(B, avec levée :)*
-1. Oh, je n’oublierai pas<br />
-Ouuuu       | Devant nous, les casqués<br />
+1. ... ouuuu | Oh, je n’oublierai pas devant nous, les casqués<br />
 Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
 Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
 Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux <br />
