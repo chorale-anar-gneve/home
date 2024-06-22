@@ -1,7 +1,11 @@
-# Chansonnier soprano
+# Paroles
+
+> B : basse<br />
+> T : ténor<br />
+> A : alto<br />
+> S : soprano<br />
 
 ## Sommaire
-
 ### En Français
 [Allez les gars](#allez-les-gars)<br />
 [A bas l'état policier](#a-bas-létat-policier)<br />
@@ -21,20 +25,20 @@
 [The digger's song](#the-diggers-song)<br />
 
 ## Allez les gars
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
-1. *(Levée basses : ~~Oh, je n’oublierai pas~~)*<br /> 
-Ouuuu *(~~devant nous, les casqués~~)*<br />
-Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
-Ouuuu ouuuu *(~~Tout ça pour nous forcer quand nous n’avions pour nous~~)* <br />
-Ouuuu ouuuu *(~~Que nos poings, le bon droit, et puis quelques cailloux.~~)* <br />
+1. *(Levée B :)* Oh, je n’oublierai pas<br /> 
+*(TAS :)* Ouuuu | *(B :)* devant nous, les casqués<br />
+Ouuuu ouuuu | Les fusils lance-grenades et les grands boucliers <br />
+Ouuuu ouuuu | Tout ça pour nous forcer quand nous n’avions pour nous <br />
+Ouuuu ouuuu | Que nos poings, le bon droit, et puis quelques cailloux. <br />
 
-2. Ouuuu ouuuu *(~~D’abord on s’avançait en frappant dans les mains~~)* <br />
-Ouuuu ouuuu *(~~Y en avait parmi eux des vraies têtes de gamins~~)* <br />
-Ouuuu ouuuu *(~~Les regards s’affrontaient, face à face, de tout près~~)* <br />
-Ouuuu ouuuuu *(~~Eux devaient la boucler, nous pas, et on chantait:~~)* <br />
+2. Ouuuu ouuuu | D’abord on s’avançait en frappant dans les mains <br />
+Ouuuu ouuuu | Y en avait parmi eux des vraies têtes de gamins <br />
+Ouuuu ouuuu | Les regards s’affrontaient, face à face, de tout près <br />
+Ouuuu ouuuuu | Eux devaient la boucler, nous pas, et on chantait <br />
 
 3. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
@@ -89,7 +93,7 @@ Combien on vous paye pour faire ça__ <br />
 ## A bas l'état policier
 
 ### Canon court 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : do sol mi sol<br />
 
@@ -99,7 +103,7 @@ AA bas-l'ééétat _ poolii...__<br />
 -cier. <br />
 
 ### Version complète 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : do mi do do<br />
 
@@ -156,7 +160,7 @@ Des millions à vous crier<br />
 À bas l’État policier !__ <br />
 
 ## La Makhnovtchina 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : si si si si<br />
 
@@ -218,28 +222,26 @@ Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
 ## La rue des Lilas
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 *(Texte et musique : Sylvain Girault)*<br />
 
 > BTAS : la la ré ré 
 
-1. oooh oooh *(~~Ce soir je meurs à la guerre~~)*<br />
-oooh oooh *(~~Aujourd’hui pour moi sonne le glas~~)*<br />
-oooh oooh *(~~Mon visage est blanc et mon sang coule à flot~~)*<br />
-oooh oooh *(~~Sur le trottoir de la rue des Lilas~~)*<br />
+1. *(T?+A+S)* oooh oooh | *(B+T?)* Ce soir je meurs à la guerre <br />
+oooh oooh | Aujourd’hui pour moi sonne le glas <br />
+oooh oooh | Mon visage est blanc et mon sang coule à flot<br />
+oooh oooh | Sur le trottoir de la rue des Lilas<br />
 
-2. oooh oooh *(~~Ce soir je meurs sous vos bombes~~)* <br />
-oooh oooh *(~~Pourtant je n’ai rien fait pour ça~~)* <br />
-oooh oooh *(~~Je ne suis qu’un simple flâneur dans la ville~~)* <br />
-oooh oooh *(~~Sur le trottoir de la rue des Lilas~~)* <br />
+2. oooh oooh | Ce soir je meurs sous vos bombes <br />
+oooh oooh | Pourtant je n’ai rien fait pour ça <br />
+oooh oooh | Je ne suis qu’un simple flâneur dans la ville <br />
+oooh oooh | Sur le trottoir de la rue des Lilas <br />
 
 4. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilaaaaas *(= 1, 2)*<br />
-
-*(compter : 3, 4, 1, 2, 3)*
+Je m’éteins dans la rue des Lilaaaaas<br />
 
 5. Plus jamais revoir la dune<br />
 Au matin quand s’effacent mes pas<br />
@@ -254,9 +256,7 @@ Jamais plus la mer, les étoiles, les forets<br />
 7. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
-
-*(compter : 3, 4, 1, 2, 3)*
+Je m’éteins dans la rue des Lilas<br />
 
 8. J’aimerais tant revoir mes frères<br />
 Mes enfants, mes parents, mes amis<br />
@@ -271,9 +271,7 @@ Dire aux faiseurs de mort que l’on survit<br />
 10. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
-
-*(compter : 3, 4, 1, 2, 3)*
+Je m’éteins dans la rue des Lilas<br />
 
 11. La guerre c’est un massacre<br />
 De gens qui ne se connaissent pas<br />
@@ -288,9 +286,7 @@ Mais qui ne se massacrent pas<br />
 13. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
-
-*(compter : 3, 4, 1, 2, 3)*
+Je m’éteins dans la rue des Lilas<br />
 
 14. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
@@ -301,7 +297,7 @@ Je m’éteins dans la rue des Lilas...<br />
 *(Notes. __Dabkeh__ : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie. __Arak__ : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
 
 ## Je suis fille d'Amazigh
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : ré ré la ré
 
@@ -373,102 +369,102 @@ loo loo loo<br />
 *(Notes. __Amazigh__ : Terme berbère signifiant « homme libre », sous lequel se désignent les Berbères. __Chibani__ : Immigré maghrébin de la première génération, arrivé en France au début des années 1960 pour y travailler, et qui a fait le choix, la retraite venue, de ne pas retourner dans son pays d'origine __Noyelles__ : L'une des communes des Hauts-de-France dans laquelle de nombreux marocains ont immigré à partir des années 1960 et ont travaillé en tant que mineurs, mais sans pouvoir bénéficier de ce statut avant longtemps. __Chemins de bocage__ : Chemins creux en Normandie qui ont notamment servi de protection pour les soldats et la population durant la seconde guerre mondiale, et sont aujourd'hui des chemins de randonnée privilégiés.)*<br />
 
 ## Clémence en vacances 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 *(Chanson d'Anne Sylvestre)*<br />
 
 > BTAS : si fa# si ré
 
-1. *(~~On l'a dit à la grand-mère~~)*<br />
-*(~~Qui l'a dit à son voisin~~)*<br />
-__Le voisin à la bouchère__<br />
-*(~~La bouchère à son gamin~~)*<br />
-*(~~Son gamin qui tête folle~~)*<br />
-*(~~N'a rien eu de plus urgent~~)*<br />
-*(~~Que de le dire à l'école~~)*<br />
-*(~~À son voisin Pierre-Jean~~)*<br />
+1. mhhh | *(A:)* On l'a dit à la grand-mère<br />
+mhhh | *(T:)* Qui l'a dit à son voisin<br />
+mhhh | *(S:)* Le voisin à la bouchère<br />
+mhhh | *(T:)* La bouchère à son gamin<br />
+ouuu | *(A+B:)* Son gamin qui tête folle<br />
+ouuu | *(T+A+B:)* N'a rien eu de plus urgent<br />
+ouuu | *(T+B:)* Que de le dire à l'école<br />
+ouuu | *(T+B)* À son voisin Pierre-Jean<br />
 
-2. Clémence, Clémence<br />
+2. *(Tutti:)* Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-3. *(~~Ça sembla d'abord étrange~~)*<br />
-*(~~On s'interrogea un peu~~)*<br />
-__Sur ce qui parfois dérange__<br />
-*(~~La raison de certains vieux~~)*<br />
-*(~~Si quelque mauvaise chute~~)*<br />
-*(~~Avait pu l'handicaper~~)*<br />
-*(~~Ou encore une dispute~~)*<br />
-*(~~Avec ce brave Honoré~~)*<br />
+3. mhhh | *(A:)* Ça sembla d'abord étrange<br />
+mhhh | *(T:)* On s'interrogea un peu<br />
+mhhh | *(S:)* Sur ce qui parfois dérange<br />
+mhhh | *(T:)* La raison de certains vieux<br />
+ouuu | *(A+B:)* Si quelque mauvaise chute<br />
+ouuu | *(T+A+B:)* Avait pu l'handicaper<br />
+ouuu | *(T+B:)* Ou encore une dispute<br />
+ouuu | *(T+B)* Avec ce brave Honoré<br />
 
-4. Clémence, Clémence<br />
+4. *(Tutti:)* Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-5. *(~~Puis on apprit par son gendre~~)*<br />
-*(~~Qu'il ne s'était rien passé~~)*<br />
-__Mais simplement qu'à l'entendre__<br />
-*(~~Elle en avait fait assez~~)*<br />
-*(~~Bien qu'ayant toutes ses jambes~~)*<br />
-*(~~Elle reste en son fauteuil~~)*<br />
-*(~~Un peu de malice flambe~~)*<br />
-*(~~Parfois au bord de son œil~~)*<br />
+5. mhhh | *(A:)* Puis on apprit par son gendre<br />
+mhhh | *(T:)* Qu'il ne s'était rien passé<br />
+mhhh | *(S:)* Mais simplement qu'à l'entendre<br />
+mhhh | *(T:)* Elle en avait fait assez<br />
+ouuu | *(A+B:)* Bien qu'ayant toutes ses jambes<br />
+ouuu | *(T+A+B:)* Elle reste en son fauteuil<br />
+ouuu | *(T+B:)* Un peu de malice flambe<br />
+ouuu | *(T+B)* Parfois au bord de son œil<br />
 
-6. Clémence, Clémence<br />
+6. *(Tutti:)* Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-7. *(~~Honoré, c'est bien dommage~~)*<br />
-*(~~Doit tout faire à la maison~~)*<br />
-__La cuisine et le ménage__<br />
-*(~~Le linge et les commissions~~)*<br />
-*(~~Quand il essaie de lui dire~~)*<br />
-*(~~De coudre un bouton perdu~~)*<br />
-*(~~Elle répond dans un sourire~~)*<br />
-*(~~Va, j'ai bien assez cousu~~)*<br />
+7. mhhh | *(A:)* Honoré, c'est bien dommage<br />
+mhhh | *(T:)* Doit tout faire à la maison<br />
+mhhh | *(S:)* La cuisine et le ménage<br />
+mhhh | *(T:)* Le linge et les commissions<br />
+ouuu | *(A+B:)* Quand il essaie de lui dire<br />
+ouuu | *(T+A+B:)* De coudre un bouton perdu<br />
+ouuu | *(T+B:)* Elle répond dans un sourire<br />
+ouuu | *(T+B)* Va, j'ai bien assez cousu<br />
 
-8. Clémence, Clémence<br />
+8. *(Tutti:)* Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-9. *(~~C'est la maîtresse d'école~~)*<br />
-*(~~Qui l'a dit au pharmacien~~)*<br />
-__Clémence est devenue folle__<br />
-*(~~Paraît qu'elle ne fait plus rien~~)*<br />
-*(~~Mais selon l'apothicaire~~)*<br />
-*(~~Dans l'histoire, le plus fort~~)*<br />
-*(~~N'est pas qu'elle ne veuille rien faire~~)*<br />
-*(~~Mais n'en ait aucun remords~~)*<br />
+9. mhhh | *(A:)* C'est la maîtresse d'école<br />
+mhhh | *(T:)* Qui l'a dit au pharmacien<br />
+mhhh | *(S:)* Clémence est devenue folle<br />
+mhhh | *(T:)* Paraît qu'elle ne fait plus rien<br />
+ouuu | *(A+B:)* Mais selon l'apothicaire<br />
+ouuu | *(T+A+B:)* Dans l'histoire, le plus fort<br />
+ouuu | *(T+B:)* N'est pas qu'elle ne veuille rien faire<br />
+ouuu | *(T+B)* Mais n'en ait aucun remords<br />
 
-10. Clémence, Clémence<br />
+10. *(Tutti:)* Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-11. *(~~Je suis de bon voisinage~~)*<br />
-*(~~On me salue couramment~~)*<br />
-__Loin de moi l'idée peu sage__<br />
-*(~~D'inquiéter les brave gens~~)*<br />
-*(~~Mais les grand-mères commencent~~)*<br />
-*(~~De rire et parler tout bas~~)*<br />
-*(~~La maladie de Clémence~~)*<br />
-*(~~Pourrait bien s'étendre là~~)*<br />
+11. mhhh | *(A:)* Je suis de bon voisinage<br />
+mhhh | *(T:)* On me salue couramment<br />
+mhhh | *(S:)* Loin de moi l'idée peu sage<br />
+mhhh | *(T:)* D'inquiéter les brave gens<br />
+ouuu | *(A+B:)* Mais les grand-mères commencent<br />
+ouuu | *(T+A+B:)* De rire et parler tout bas<br />
+ouuu | *(T+B:)* La maladie de Clémence<br />
+ouuu | *(T+B)* Pourrait bien s'étendre là<br />
 
-12. Toutes les Clémence<br />
+12. *(Tutti:)* Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
@@ -485,7 +481,7 @@ Se reposeraient enfin<br />
 14. Choubidou bidou...<br />
 
 ## La révolte 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : si → sol
 
@@ -525,7 +521,7 @@ Débarrassons-nous du capitalisme <br />
 Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !__<br />
+Nous réaliserons l'Idéal libertaire !__ <br />
 
 7. L'État nous écrase d'impôts<br />
 Il faut payer ses juges et sa flicaille<br />
@@ -544,7 +540,7 @@ Débarrassons-nous du capitalisme<br />
 Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !__<br />
+Nous réaliserons l'Idéal libertaire !__ <br />
 
 10. Pour défendre les intérêts<br />
 Des flibustiers de la grande industrie<br />
@@ -563,10 +559,10 @@ Débarrassons-nous du capitalisme<br />
 Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !__<br />
+Nous réaliserons l'Idéal libertaire !__ <br />
 
 ## La vie s'écoule 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : fa# → sol
 
@@ -615,56 +611,56 @@ Plus de dirigeants,_ 'plus d'État<br />
 pour profiter de nos combats<br />
 
 ## Avenue du Dragon
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 *(Paroles et musique de Christian Paccoud)*<br />
 
-> Voix 1+2 : mi♭
+> BTAS : mi♭
 
 1. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
-Qu’on l’entende avenue du dragon !__<br />
+Qu’on l’entende avenue du dragon !__ <br />
 
-2. *(~~Moi, c’est Paul et j’ai pas de chaussettes<br />
-Ca fait mal aux pieds quand je vais travailler<br />
-J’ai trois gosses et six loyers de dettes~~)* <br />
-Et je vais coucher dans la cage d’escalier<br />
+2. *(B+A+S:)* doum doum doum... | *(T:)* Moi, c’est Paul et j’ai pas de chaussettes<br />
+doum doum...  | Ca fait mal aux pieds quand je vais travailler<br />
+doum doum... | J’ai trois gosses et six loyers de dettes<br /> 
+*(Tutti:)* Et je vais coucher dans la cage d’escalier<br />
 
-3. *(~~Moi, c’est Sam et j’ai pas de chaussures,<br />
-Ca fait deux cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai tiré trois voitures~~)* <br />
-Et j’ai jeté les clés dans la cage d’escalier<br />
+3. *(B+T+S)* doum doum doum... | *(A:)* Moi, c’est Sam et j’ai pas de chaussures<br />
+doum doum...  | Ca fait deux cent jours que j’ai pas travaillé<br />
+doum doum...  | Ce matin, j’ai tiré trois voitures<br />
+*(Tutti:)* Et j’ai jeté les clés dans la cage d’escalier<br />
 
 4. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
-Qu’on l’entende avenue du dragon !__<br />
+Qu’on l’entende avenue du dragon !__ <br />
 
-5. *(~~Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
-Et le marteau piqueur ça fait mal à mes dents !<br />
-Plus que j’peine et moins que j’ai d’argent,~~)* <br />
-Alors je vais pisser dans la cage d’escalier ! <br />
+5. *(T+A+S:)* doum doum doum... | *(B:*) Moi c’est Ben, j’ai froid j’ai plus de gants<br />
+doum doum... | Et le marteau piqueur ça fait mal à mes dents !<br />
+doum doum... | Plus que j’peine et moins que j’ai d’argent<br />
+*(Tutti:)* Alors je vais pisser dans la cage d’escalier<br />
 
-6. *(~~Moi c’est Sam et j’ai les doigts qui gèlent,<br />
-Ca fait huit cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai bouffé les poubelles~~)* <br />
-Et j’ai tagué « ta gueule » dans la cage d’escalier.<br />
+6. *(B+T+S)* doum doum doum... | *(A:)* Moi c’est Sam et j’ai les doigts qui gèlent<br />
+doum doum... | Ca fait huit cent jours que j’ai pas travaillé<br />
+doum doum... | Ce matin, j’ai bouffé les poubelles <br />
+*(Tutti:)* Et j’ai tagué « ta gueule » dans la cage d’escalier<br />
 
 7. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-8. *(~~Moi, c’est Jeanne, viré de la Lyonnaise.<br />
-J’alignais des zéros sur des comptes truqués !<br />
-Mais j’ai jamais su monter les mayonnaises et~~)* <br />
-Depuis je vais pointer dans la cage d’escalier ! <br />
+8. *(B+T+A)* doum doum doum... | *(S:)* Moi, c’est Jeanne, viré de la Lyonnaise<br />
+doum doum... | J’alignais des zéros sur des comptes truqués<br />
+doum doum... | Mais j’ai jamais su monter les mayonnaises et<br />
+*(Tutti:)* Depuis je vais pointer dans la cage d’escalier<br />
 
-9. *(~~Moi c’est Sam et j’ai les plombs qui pètent :<br />
-A nous la monseigneur de monsieur le curé !<br />
-Quand c’est vide, tirez la chevillette !~~)* <br />
-Pétez les bobinettes dans les cages d’escalier ! <br />
+9. *(B+T+S)* doum doum doum... | *(A:)* Moi c’est Sam et j’ai les plombs qui pètent<br />
+doum doum... | A nous la monseigneur de monsieur le curé<br />
+doum doum... | Quand c’est vide, tirez la chevillette <br />
+*(Tutti:)* Pétez les bobinettes dans les cages d’escalier ! <br />
 
 10. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
@@ -674,13 +670,13 @@ Qu’on l’entende avenue du dragon !__ <br />
 11. *__Paul et Ben et Jeanne, Sam : c’est nous !<br />
 Paul et Ben et Jeanne, Sam : c’est nous !__*<br />
 
-12. *(Scandé ou chanté :)* <br />
+12. *(Tutti, scandé ou chanté :)* <br />
 Nous c’est tout, c’est rien pour la bourgeoise.<br />
 Mais quand ça pousse en bas, ça fait peur aux banquiers !<br />
 Y a des sous pour payer les ardoises<br />
 Et on est quatre-vingt dans la cage d’escalier !<br />
 
-13. *(Scandé ou chanté :)* <br />
+13. *(Tutti, scandé ou chanté :)* <br />
 Quatre-vingt c’est peu mais ça commence :<br />
 Ca fait des millions qui vont pas travailler.<br />
 Droit devant ! Le nez dans vos finances !<br />
@@ -694,7 +690,7 @@ Craches les feu, l’amour et dit ton nom !__<br />
 __Qu'on l'entendE dans la rue Royaume__ <br />
 
 ## Bella Ciao
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : si → mi
 
@@ -739,7 +735,7 @@ alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
 
 ## Il galleone 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : la
 
@@ -805,67 +801,68 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 O libertà o morte!<br />
 
 ## Canción sin miedo
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : ré fa la ré
 
 1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
 
-2. ou ou ou *(~~Que tiemble el Estado, los cielos, las calles~~)*<br />
-ou ou ou *(~~Que tiemblen los jueces y los judiciales~~)*<br />
-ou ou ou ou *(~~Hoy a las mujeres nos quitan la calma~~)*<br />
-ah-ah-ah *(~~Nos sembraron miedo~~)*<br />
-aaah *(~~ nos crecieron alas~~)*<br />
+2. *(T+A+S:)* ou ou ou | *(B:)* Que tiemble el Estado, los cielos, las calles<br />
+ou ou ou | Que tiemblen los jueces y los judiciales<br />
+ou ou ou ou | Hoy a las mujeres nos quitan la calma<br />
+ah-ah-ah | Nos sembraron miedo<br />
+aaah | nos crecieron alas<br />
 
-3. ou ou ou *(~~A cada minuto, de cada semana~~)* <br />
-ou ou ou *(~~Nos roban amigas, nos matan hermanas~~)* <br />
-ou ou ou *(~~Destrozan sus cuerpos, los desaparecen~~)*<br />
-No olvide sus nombres, por favor, señor presidente<br />
+3. *(B+A+S:)* ou ou ou | *(T:)* A cada minuto, de cada semana<br />
+ou ou ou | Nos roban amigas, nos matan hermanas<br />
+ou ou ou | Destrozan sus cuerpos, los desaparecen<br />
+ou ou ou ou ou *(S+T:)* No olvide sus nombres, por favor<br />
+*(Tutti)* señor presidente<br />
 
-4. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
-...ouu-ouu *(~~Por todas las morras peleando en Sonora~~)*<br />
-ou-ou-ou-ou-... *(~~Por las comandantas luchando por Chiapas~~)* <br />
-...-ouu-ou *(~~Por todas las madres buscando en Tijuana~~)* <br />
+4. *(B+T+S:)* ouu-ouu-... | *(A:)* Por todas las compas marchando en Reforma<br />
+...ouu-ouu | Por todas las morras peleando en Sonora<br />
+ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
+...-ouu-ou | Por todas las madres buscando en Tijuana <br />
 
-5. Cantamos sin miedo, pedimos justicia<br />
+5. *(Tutti:)* Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
-Que resuene fuerte "¡nos queremos vivas!"<br />
-Que caiga con fuerza el feminicida<br />
+*(B:)* ..."¡nos queremos vivas!" | *(T:)* ...ou-ou-ou-ou | *(A+S:*) Que resuene fuerte "¡nos queremos vivas!"<br />
+*(T:)* ouuu-ou | *(A+S:)* Que caiga con fuerza<br />
+*(Tutti:)* el feminicida<br />
 
-6. Yo todo lo incendio, yo todo lo rompo<br />
-Si un día algún fulano te apaga los ojos<br />
-Ya nada me calla, ya todo me sobra<br />
-Si tocan a una, respondemos todas<br />
+6. *(S, et tutti en gras:)* Yo todo **lo incendio**, yo todo **lo rompo**<br />
+Si un día algún **fulano** te apaga **los ojos**<br />
+Ya nada **me calla**, ya todo **me sobra**<br />
+Si tocan a **una**, respondemos **todas**<br />
 
-7. Soy Claudia, soy Esther y soy Teresa<br />
-Soy Ingrid, soy Fabiola y soy Valeria<br />
-Soy la niña que subiste por la fuerza<br />
-Soy la madre que ahora llora por sus muertas<br />
-Y soy esta que te hará pagar las cuentas<br />
+7. *(B+A:)* Aaah-aaah... | *(S+T:*) Soy Claudia, soy Esther y soy Teresa<br />
+Aah-aah... | Soy Ingrid, soy Fabiola y soy Valeria<br />
+*(Tutti:)* Soy la niña que subiste por la fuerza<br />
+*(T+A:)* ou-ou-ouuu | *(S:)* Soy la madre que ahora llora por sus muertas<br />
+*(Tutti:)* Y soy esta que te hará pagar las cuentas<br />
 
-8. ¡Justicia, justicia, justicia, justicia!<br />
+8. *(B→T→A→S:)* ¡Justicia, justicia, justicia, justicia!<br />
 
-9. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
-...ouu-ouu *(~~Por todas las morras peleando en Sonora~~)*<br />
-ou-ou-ou-ou-... *(~~Por las comandantas luchando por Chiapas~~)* <br />
-...-ouu-ou *(~~Por todas las madres buscando en Tijuana~~)* <br />
+9. *(B+T+S:)* ouu-ouu-... | *(A:)* Por todas las compas marchando en Reforma<br />
+...ouu-ouu | Por todas las morras peleando en Sonora<br />
+ou-ou-ou-ou-... | Por las comandantas luchando por Chiapas <br />
+...-ouu-ou | Por todas las madres buscando en Tijuana <br />
 
-10. Cantamos sin miedo, pedimos justicia<br />
+10.  *(Tutti:)* Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
-Que resuene fuerte "¡nos queremos vivas!"<br />
-Que caiga con fuerza el feminicida<br />
-Que caiga con fuerza el feminicida<br />
+*(B:)* ..."¡nos queremos vivas!" | *(T:)* ...ou-ou-ou-ou | *(A+S:*) Que resuene fuerte "¡nos queremos vivas!"<br />
+*(T:)* ouuu-ou | *(A+S:)* Que caiga con fuerza<br />
+*(Tutti:)* el feminicida<br />
 
-11. *(lento :)* Y retiemblen sus centros la tierra<br />
-Al sororo rugir del amor<br />
-Y retiemblen sus centros la tierra<br />
-Al sororo rugir del amor<br />
+11. *(B+A:)* Aaaah | *(T+S, lento:)* Y retiemblen sus centros la tierra<br />
+aaaah... | Al sororo rugir del amor<br />
+aaaah... | Y retiemblen sus centros la tierra<br />
+aaaah... | Al sororo rugir del amor<br />
 
 ## L'estaca 
- 
 ### Version en français 
 
-[aller à la version en catalan](#version-en-catalan) | [top](#chansonnier-soprano) <br />
+[aller à la version en catalan](#version-en-catalan) | [top](#paroles) <br />
 
 > BTAS : la
 
@@ -930,63 +927,63 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 
 ### Version en catalan
 
-[Aller à la version en français](#version-en-français) | [top](#chansonnier-soprano) <br />
+[Aller à la version en français](#version-en-français) | [top](#paroles) <br />
 
 > BTAS : la
 
 1. L’avi	Siset	em	parlava<br />
-De	bon	matí al	portal*<br />
+De	bon	matí al	portal<br />
 Mentre	el	sol	esperàvem<br />
-I’els	carros	vèiem	passar.<br /><br />
+I’els	carros	vèiem	passar<br /><br />
 Siset,	que	no	veus	l’estaca<br />
 A	on	estem	tots lligats	?<br />
 Si	no	podem*	desfer-ns-en<br />
 Mai	no	podrem* caminar	!<br />
 
 2. __Si estirem tots, ella caurà<br />
-I molt de temps no pot durar,<br />
+I molt de temps no pot durar<br />
 Segur que tomba, tomba, tomba<br />
-Ben corcada* deu ser ja.<br />
+Ben corcada* deu ser ja<br />
 Si tu l’estires fort per’qui<br />
-I jo l’estiro fort per’llà,<br />
+I jo l’estiro fort per’llà<br />
 Segur que tomba, tomba, tomba
-I’ens podrem aliberar.__<br />
+I’ens podrem aliberar__ <br />
 
 3. P’rò,	Siset,	fa	molt	temps	ja	:<br />
-Les	mans	se’m	van	escorxant*,<br />
+Les	mans	se’m	van	escorxant<br />
 I	quan	la	força	se	me’n	va<br />
-Ella	és	més	ampla	i	més	gran.<br /><br />
-Ben	cert	sé	qu’està	podrida*<br />
+Ella	és	més	ampla	i	més	gran<br /><br />
+Ben	cert	sé	qu’està	podrida<br />
 P’rò	és	que,	Siset,	pesa	tant<br />
-Qu’a	cops	la	força	m’oblida.<br />
+Qu’a	cops	la	força	m’oblida<br />
 Torna’m	a	dir	el	teu	cant	:<br />
 
 4. __Si estirem tots, ella caurà<br />
-I molt de temps no pot durar,<br />
+I molt de temps no pot durar<br />
 Segur que tomba, tomba, tomba<br />
-Ben corcada* deu ser ja.<br />
+Ben corcada* deu ser ja<br />
 Si tu l’estires fort per’qui<br />
-I jo l’estiro fort per’llà,<br />
+I jo l’estiro fort per’llà<br />
 Segur que tomba, tomba, tomba
-I’ens podrem aliberar.__ <br />
+I’ens podrem aliberar__ <br />
 
-5. L’avi	Siset	ja	no diu	res,<br />
+5. L’avi	Siset	ja	no diu	res<br />
 Mal	vent	que	l’emportà<br />
 Ell	qui	sap	cap	a	quin	indret<br />
 I	jo	sota el	portal<br /><br />
 I	mentre	passen	els	nous	vailets<br />
 Estiro	el	coll	per	cantar<br />
-El	darrer	cant d’en	Siset,<br />
-El	darrer	qu’em	va’ensenyar.<br />
+El	darrer	cant d’en	Siset<br />
+El	darrer	qu’em	va’ensenyar<br />
 
 6. __Si estirem tots, ella caurà<br />
-I molt de temps no pot durar,<br />
+I molt de temps no pot durar<br />
 Segur que tomba, tomba, tomba<br />
-Ben corcada* deu ser ja.<br />
+Ben corcada* deu ser ja<br />
 Si tu l’estires fort per’qui<br />
-I jo l’estiro fort per’llà,<br />
-Segur que tomba, tomba, tomba
-I’ens podrem aliberar.__ <br />
+I jo l’estiro fort per’llà<br />
+Segur que tomba, tomba tomba
+I’ens podrem aliberar__ <br />
 
 7. Laï laï Laï laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
@@ -994,18 +991,21 @@ Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
 
 ## Here's to you 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > B(ATS) : ré (fa# la fa#)
 
-1. __Here's to you Nicola and Bart<br />
+1. *(B:)* doudoudou...<br />
+2. *(A:)* doudoudou...<br />
+3. *(T:)* doudoudou...<br />
+4. __Here's to you Nicola and Bart<br />
 Rest forever here in our hearts<br />
 The last and final moment is yours<br />
 That agony is your triumph__ <br />
 *(Répéter 3x, puis 2x sur lalala)*<br />
 
 ## The digger's song
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
 > BTAS : si → mi
 
@@ -1016,8 +1016,7 @@ Your digging does maintain and persons all_ defame<br />
 Stand up now, stand up now<br />
 
 2. __Your houses they pull down, stand up now, stand up now, <br />
-Your houses they pull down, stand up now__
-<br />
+Your houses they pull down, stand up now__ <br />
 Your houses they pull down to fright your men in town<br />
 But the gentry must come down and the poor shall wear_ the crown<br />
 Stand up now, diggers all<br />
@@ -1040,5 +1039,5 @@ To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
 
-[top](#chansonnier-soprano) <br />
+[top](#paroles) <br />
 
