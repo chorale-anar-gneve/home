@@ -6,8 +6,10 @@
 
 ## évènements à venir 
 
-- 22 juin : participation à la fête de la musique (~15h, passage du Terraillet puis mobile)
-- 27 juin : répétition (Canción, Digger's song, Le pieu, +/- Les voleurs d'eau)
+- 4 juillet : répét 19h-21h 
+- 11 juillet : répét à confirmer 
+- 18 juillet : répét à confirmer
+- 25 juillet : répét à confirmer 
 
 ## liens
 - notre email : la *tiret* korage *at* riseup *point* net (compter un délai de réponse)
