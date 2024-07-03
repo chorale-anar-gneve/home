@@ -6,7 +6,7 @@
 
 ## évènements à venir 
 
-- 4 juillet : répét 19h-21h 
+- 4 juillet : répét 19h-21h à l'échoquartier de la jonction
 - 11 juillet : répét à confirmer 
 - 18 juillet : répét à confirmer
 - 25 juillet : répét à confirmer 
