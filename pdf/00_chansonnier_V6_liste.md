@@ -1,4 +1,4 @@
-Contenu du chansonnier V6 : 
+Contenu du chansonnier de la chorale de Lausanne V6 : 
 
 - A bas l’État policier    
 - Addio Lugano bella
