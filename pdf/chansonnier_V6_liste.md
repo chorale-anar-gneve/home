@@ -1,0 +1,37 @@
+Contenu du chansonnier V6 : 
+
+- A bas l’État policier    
+- Addio Lugano bella
+- Adieu Paure Carnevas
+- A la huelga
+- Allez les gars
+- Les Archers du roi
+- Bella ciao
+- Bread and Roses
+- Bruceremo le chiese
+- Cancion sin miedo
+- Il Canto dei malfattori
+- Çapulcu
+- La Casa del Mouradia
+- Cinturini
+- Clémence en vacances
+- Déjà mal mariée
+- The Digger’s song
+- L’Estaca
+- Fille d’ouvriers
+- Il Galeone
+- L’Hymne des femmes
+- In ale gasn
+- I Wish
+- La Java des Bons-Enfants
+- Je suis fille d’Amazigh
+- Je suis fille de marin
+- La Lega
+- La vie s’écoule
+- Makhnovtchina
+- On parle de parité
+- La Révolte
+- Rue des Lilas
+- La Semaine sanglante
+- Soroode Zan
+- Stornelli d’Esilio
