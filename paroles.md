@@ -11,6 +11,7 @@
 [La révolte](#la-révolte)<br />
 [La vie s'écoule](#la-vie-sécoule)<br />
 [Avenue du Dragon](#avenue-du-dragon)<br />
+[Les voleurs d'eau](#les-voleurs-d-eau)<br />
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
@@ -20,6 +21,7 @@
 [L'estaca](#lestaca)<br />
 [Here's to you](#heres-to-you)<br />
 [The digger's song](#the-diggers-song)<br />
+[In ale gasn](#in-ale-gasn)<br />
 
 ## Pianos en ligne
 - [online piano 1 - online pianist](https://www.onlinepianist.com/virtual-piano)
@@ -715,6 +717,67 @@ Craches les feu, l’amour et dit ton nom !__<br />
 *(fort:)*<br />
 __Qu'on l'entendE dans la rue Royaume__ <br />
 
+## Les voleurs d'eau
+
+[top](#paroles) <br />
+
+*(Chanson d'Henri Salvador)*
+> notes de départ ? (partition ?)
+
+1. Ils détournent la rivière, là haut, là haut<br />
+Ils se moquent de nos misères, là haut, là haut<br />
+Si la soif nous affaiblit<br />
+Et si nos sources sont taries<br />
+Tous nos troupeaux<br />
+
+2. Vont périr l’un après l’autre, là haut, là haut<br />
+Il faut sortir nos fusils, là haut, là haut<br />
+Il faut lutter pour nos vies<br />
+Mais d’abord il nous faut parler<br />
+À ces gringos tantôt<br />
+
+3. Nos terres sont les plus fertiles, c’est l’eau, c’est l’eau<br />
+Et nous vivions si tranquilles, de nos travaux<br />
+Quand nous montions dans nos barques<br />
+Lorsque nous pêchions dans le lac<br />
+Heureux, heureux<br />
+
+4. Ils veulent construire un barrage, là haut, là haut<br />
+C’est la vallée qu’ils saccagent, là haut, là haut<br />
+Ils inond’ront nos villages<br />
+Et ils nous mettront dans des cages<br />
+Là haut comme des corbeaux<br />
+
+5. Nous devons les empêcher, là haut, là haut<br />
+De détruire nos foyers, si beaux, si beaux<br />
+Les adultes vont s’armer<br />
+Tous les enfants vont les aider<br />
+Il faut de l’eau, il faut de l’eau, il faut de l’eau, de l’eau<br />
+
+6. Ils nous montrent des contrats, c’est tout, c’est tout<br />
+Qui leurs donnent tous les droits, sur nous, sur nous<br />
+Ils veulent nous rayer du temps<br />
+Et puis du monde des vivants, pour de l’argent, l’argent<br />
+Que ferions-nous dans leur ville, tombeau, tombeau<br />
+
+7. Comme des tigres qu’on exile, au zoo, au zoo<br />
+C’est pourquoi jusqu’au dernier<br />
+Nous lutterons pour exister<br />
+Pour l’eau, pour l’eau, pour l’eau, pour l’eau<br />
+De l’eau, de l’eau, de l’eau<br />
+
+8. Ils détournent la rivière, là haut, là haut<br />
+Ils se moquent de nos misères, là haut, là haut<br />
+Si la soif nous affaiblit<br />
+Et si nos sources sont taries<br />
+Tous nos troupeaux<br />
+
+9. Vont périr l’un après l’autre, là haut, là haut<br />
+Il faut sortir nos fusils, là haut, là haut<br />
+Il faut lutter pour nos vies<br />
+Mais d’abord il nous faut parler<br />
+De l’eau, de l’eau, de l’eau<br />
+
 ## Bella Ciao
 [top](#paroles) <br />
 
@@ -830,6 +893,35 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
 
+## Addió Lugano bella
+[top](#paroles) <br/>
+
+> BTAS : fa la do do
+
+1. Addio, Lugano bella, o dolce terra mia,<br/>
+scacciati senza colpa gli’anarchici van via<br/>
+**e partono cantando con la speranza’in cor.** (2x)<br/>
+
+2. Ed è per voi sfruttati, per voi lavoratori,<br/>
+che siamo’ammanettati al par dei malfattori;<br/>
+**eppur la nostra’idea è solo idea d’amor.** (2x)<br/>
+
+3. Anonimi compagni, amici che restate,<br/>
+le verità sociali da forti propagate:<br/>
+**è questa la vendetta che noi vi domandiam.** (2x)<br/>
+
+4. Ma tu che ci discacci con una vil menzogna,<br/>
+repubblica borghese, un dì ne’avrai vergogna<br/>
+**ed oggi t’accusiamo in faccia all’avvenir.** (2x)<br/>
+
+5. Scacciati senza tregua, andrem di terra in terra<br/>
+a predicar la pace ed a bandir la guerra:<br/>
+**la pace tra gli’oppressi, la guerra agli’oppressor.** (2x)<br/>
+
+6.Addio, cari compagni, amici luganesi,<br/>
+addio, bianche di neve montagne ticinesi,<br/>
+**i cavalieri’erranti son trascinati’al nord.** (2x)<br/>
+
 ## La lotta
 [top](#paroles) <br />
 
@@ -904,6 +996,7 @@ Vogliam(o) la libertà**<br />
 [top](#paroles)<br/>
 
 *(version féministe)*<br />
+> BTAS : la <br />
 
 1. A la huelga compañera, no vayas a trabajar<br />
 Deja'el cazo, la herramienta, el teclado y'el ipad<br />
@@ -941,9 +1034,9 @@ A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
 ## Canción sin miedo
 [top](#paroles)<br />
 
-> BTAS : ré fa la ré
+> BTAS : ré fa la ré<br />
 
-1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
+1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah<br />
 
   *(T+A+S:)* | *(B:)*
 2. ou ou ou | Que tiemble el Estado, los cielos, las calles<br />
@@ -1186,6 +1279,52 @@ The lawyers they conjoin, stand up now__ <br />
 To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
+
+## In ale gasn
+[top](#paroles) <br />
+
+*(Intro)* <br />
+1. *In ale gasn vu men geyt<br />
+Hert men zabostovkes.<br />
+Yinglekh, meydlekh, kind un keyt<br />
+Shmuesn fun pribovkes.<br />
+Yinglekh, meydlekh, kind un keyt<br />
+Shmuesn fun pribovkes*.<br />
+
+2. *Genug shoyn brider horeven,<br />
+Genug shoyn borgn layen,<br />
+Makht a zabostovke,<br />
+Lomir brider zikh bafrayen!<br />
+Makht a zabostovke,<br />
+Lomir brider zikh bafrayen!*<br />
+
+3. Brider un shvester, lumir zikh gehn di hent,<br />
+Lomir Nikolaykelen tsebrekhn di vent!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+4. Brider un shvester, lomir zikh nit irtsn,<br />
+Lomir Nikolaykelen di yorelekh farkirtsn!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+5. Nekhtn hot er gefirt a vegele mit mist,<br />
+Haynt is er gevorn a kapitalist!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+6. Brider un shvester, lomir geyn tsuzamen,<br />
+Lomir Nikolaykelen bagrobn mit der mamen!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+7. Kozakn, zhandarrnen, arop fun di ferd!<br />
+Der rusisher keyser ligt shoyn in dr'erd!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!<br />
+Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
 
 [top](#paroles) <br />
 
