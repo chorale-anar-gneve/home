@@ -15,7 +15,7 @@
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
-[Addio Lugano belle](#addio-lugano-bella)<br />
+[Addio Lugano bella](#addio-lugano-bella)<br />
 [La lotta](#la-lotta)<br />
 [A la huelga](#a-la-huelga)<br />
 [Canción sin miedo](#canción-sin-miedo)<br />
