@@ -1299,6 +1299,7 @@ Makht a zabostovke,<br />
 Lomir brider zikh bafrayen!*<br />
 
 *(Chant principal)* <br />
+
 3. Brider un shvester, lumir zikh gehn di hent,<br />
 Lomir Nikolaykelen tsebrekhn di vent!<br />
 **Hey, hey, daloy politsey!<br />
