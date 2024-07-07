@@ -38,7 +38,7 @@
 ## Allez les gars
 [top](#paroles) <br />
 
-> BTAS : mi♭ - si♭ - mi♭ - sol [PDF](pdf/Allez_les_gars.pdf) <br /> 
+> [PDF](pdf/Allez_les_gars.pdf) | BTAS : mi♭ - si♭ - mi♭ - sol <br /> 
 
 - *(TAS :)* | *(B, avec levée :)* <br />
 
