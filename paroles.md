@@ -15,6 +15,7 @@
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
 [La lotta](#la-lotta)<br />
+[A la huelga](#a-la-huelga)<br />
 [Canción sin miedo](#canción-sin-miedo)<br />
 [L'estaca](#lestaca)<br />
 [Here's to you](#heres-to-you)<br />
