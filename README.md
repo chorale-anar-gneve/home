@@ -6,5 +6,5 @@ Pour éditer le contenu du site, il vous faut un compte github ainsi que le stat
 
 ## Todo 
 - ajouter les pdf des partitions (ou liens vers ceux-ci) pour chaque chanson
-- ajouter les paroles pour "a la huelga", "la lotta" (= la lega avec paroles revisités), addio lugano bella
+- ajouter les paroles pour "a la huelga", addio lugano bella
 - idée de réécrire les paroles de "el pueblo unido"
