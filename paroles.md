@@ -14,6 +14,7 @@
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
+[La lotta](#la-lotta)<br />
 [Canción sin miedo](#canción-sin-miedo)<br />
 [L'estaca](#lestaca)<br />
 [Here's to you](#heres-to-you)<br />
@@ -827,6 +828,77 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 [chuchoté]<br />
 13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
+
+## La lotta
+[top](#paroles) <br />
+
+*(Adaptation de "La lega").*<br />
+
+> AS : mi sol<br />
+
+1. Sebben che siamo donne<br />
+Paura non abbiamo<br />
+Per amor de nostre figlie<br />
+Per amor de nostri figli<br />
+Sebben che siamo donne<br />
+Paura non abbiamo<br />
+Per amor de nostre figlie<br />
+In lotta ci mettiamo<br />
+
+2. **Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+E noi altre feministe<br />
+Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+Vogliam(o) la libertà**<br />
+
+3. E la libertà non viene<br />
+Perché non c’è l’unione<br />
+Crumiri col padrone<br />
+Crumiri col padrone<br />
+E la libertà non viene<br />
+Perché non c’è l’unione<br />
+Crumiri col padrone<br />
+Son tutti da ammazza<br />
+
+4. **Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+E noi altre feministe<br />
+Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+Vogliam(o) la libertà**<br />
+
+5. Sebben che siamo donne<br />
+Paura non abbiamo<br />
+Abbiam delle belle buone lingue<br />
+Abbiam delle belle buone lingue<br />
+Sebben che siamo donne<br />
+Paura non abbiamo<br />
+Abbiam delle belle buone lingue<br />
+E ben ci difendiamo<br />
+
+6. **Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+E noi altre feministe<br />
+Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+Vogliam(o) la libertà**<br />
+
+7. E voi altri signoroni<br />
+Che ci avete tanto orgoglio<br />
+Abbassate la superbia<br />
+Abbassate la superbia<br />
+E voi altri signoroni<br />
+Che ci avete tanto orgoglio<br />
+Abbassate la superbia<br />
+E aprite il portafoglio<br />
+
+8. **Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+E noi altre feministe<br />
+Oh lio lio la, e la lotta crescera<br />
+E noi altre feministe<br />
+Vogliam(o) la libertà**<br />
 
 ## Canción sin miedo
 [top](#paroles) <br />
