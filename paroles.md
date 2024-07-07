@@ -15,6 +15,7 @@
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
+[Addio Lugano belle](#addio-lugano-bella)<br />
 [La lotta](#la-lotta)<br />
 [A la huelga](#a-la-huelga)<br />
 [Canción sin miedo](#canción-sin-miedo)<br />
@@ -893,7 +894,7 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
 
-## Addió Lugano bella
+## Addio Lugano bella
 [top](#paroles) <br/>
 
 > BTAS : fa la do do
