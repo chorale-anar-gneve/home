@@ -11,7 +11,7 @@
 [La révolte](#la-révolte)<br />
 [La vie s'écoule](#la-vie-sécoule)<br />
 [Avenue du Dragon](#avenue-du-dragon)<br />
-[Les voleurs d'eau](#les-voleurs-d-eau)<br />
+[Les voleurs d'eau](#les-voleurs-deau)<br />
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
 [Il galleone](#il-galleone)<br />
@@ -1298,6 +1298,7 @@ Lomir brider zikh bafrayen!<br />
 Makht a zabostovke,<br />
 Lomir brider zikh bafrayen!*<br />
 
+*(Chant principal)* <br />
 3. Brider un shvester, lumir zikh gehn di hent,<br />
 Lomir Nikolaykelen tsebrekhn di vent!<br />
 **Hey, hey, daloy politsey!<br />
