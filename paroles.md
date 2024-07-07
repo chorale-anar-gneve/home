@@ -38,7 +38,7 @@
 ## Allez les gars
 [top](#paroles) <br />
 
-> [PDF](pdf/Allez_les_gars.pdf) | BTAS : mi♭ - si♭ - mi♭ - sol <br /> 
+> [PDF](pdf/Allez_les_gars.pdf) ; BTAS : mi♭ - si♭ - mi♭ - sol  <br /> 
 
 - *(TAS :)* | *(B, avec levée :)* <br />
 
@@ -107,7 +107,7 @@ Combien on vous paye pour faire ça__ <br />
 ### Canon court 
 [top](#paroles) <br />
 
-> BTAS : do sol mi sol<br />
+> [PDF](pdf/A_bas_l'etat_policier_VersionCourte.pdf) ; BTAS : do sol mi sol<br />
 
 __...A baas l'étaat policier <br />
 A bas l'état policier<br />
@@ -117,7 +117,7 @@ AA bas-l'ééétat _ poolii...__<br />
 ### Version complète 
 [top](#paroles) <br />
 
-> BTAS : do mi do do<br />
+> [PDF](pdf/A_bas_l_etat_policier.pdf) ; BTAS : do mi do do<br />
 
 1. Puisque la provocation<br />
 Celle qu’on a pas dénoncée<br />
@@ -174,7 +174,7 @@ Des millions à vous crier<br />
 ## La Makhnovtchina 
 [top](#paroles) <br />
 
-> BTAS : si si si si<br />
+> [PDF](pdf/Makhnovtchina.pdf) ; BTAS : si si si si<br />
 
 - *(S+A, lent, croches:)* <br />
 
@@ -239,7 +239,7 @@ Ils sont rouges de notre sang.<br />
 
 *(Texte et musique : Sylvain Girault)*<br />
 
-> BTAS : la la ré ré 
+> [PDF](pdf/La_rue_des_lilas.pdf) ; BTAS : la la ré ré 
 
   *(T?+A+S)* | *(B+T?)*
 1. oooh oooh | Ce soir je meurs à la guerre <br />
@@ -313,7 +313,7 @@ Je m’éteins dans la rue des Lilas...<br />
 ## Je suis fille d'Amazigh
 [top](#paroles) <br />
 
-> BTAS : ré ré la ré
+> [PDF fille de marin](pdf/Je_suis_fille_de_marin.pdf) ; BTAS : ré ré la ré
 
 1. Loo loo loo<br />
 loo loo loo<br />
@@ -384,7 +384,7 @@ loo loo loo<br />
 
 *(Chanson d'Anne Sylvestre)*<br />
 
-> BTAS : si fa# si ré
+> [PDF](pdf/Clemence_en_vacances.pdf) ; BTAS : si fa# si ré
 
 1. mhhh | *(A:)* On l'a dit à la grand-mère<br />
 mhhh | *(T:)* Qui l'a dit à son voisin<br />
@@ -500,7 +500,7 @@ Se reposeraient enfin<br />
 ## La révolte 
 [top](#paroles) <br />
 
-> BTAS : si → sol
+> [PDF](pdf/La_revolte.pdf) ; BTAS : si → sol
 
 1. Nous sommes les persécuté-e-s<br />
 De tous les temps et de toutes les guerres<br />
@@ -581,7 +581,7 @@ Nous réaliserons l'Idéal libertaire !__ <br />
 ## La vie s'écoule 
 [top](#paroles) <br />
 
-> BTAS : fa# → sol
+> [PDF](pdf/La_vie_s_ecoule.pdf) ; BTAS : fa# → sol
 
 1. La vie s'écoule, la vie s'enfuit<br />
 les jours défilent au pas de l'ennui<br />
