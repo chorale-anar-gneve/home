@@ -14,7 +14,7 @@
 [Les voleurs d'eau](#les-voleurs-deau)<br />
 ### Dans d'autres langues
 [Bella Ciao](#bella-ciao)<br />
-[Il galleone](#il-galleone)<br />
+[Il galeone](#il-galeone)<br />
 [Addio Lugano bella](#addio-lugano-bella)<br />
 [La lotta](#la-lotta)<br />
 [A la huelga](#a-la-huelga)<br />
@@ -632,7 +632,7 @@ pour profiter de nos combats<br />
 
 *(Paroles et musique de Christian Paccoud)*<br />
 
-> BTAS : mi♭
+> [PDF](pdf/avenue_du_dragon.pdf) ; BTAS : mi♭
 
  *(Tutti:)*<br />
 1. __Craches le feu, l’amour et dis ton nom !<br />
@@ -782,7 +782,7 @@ De l’eau, de l’eau, de l’eau<br />
 ## Bella Ciao
 [top](#paroles) <br />
 
-> BTAS : si → mi
+> [PDF](pdf/Bella_ciao.pdf) ; BTAS : si → mi
 
 *(lent :)*
 1. Una mattina mi son svegliata<br />
@@ -828,10 +828,10 @@ __o bella ciao, bella ciao,bella ciao, ciao, ciao__ <br />
 alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
 
-## Il galleone 
+## Il galeone 
 [top](#paroles) <br />
 
-> BTAS : la
+> [PDF](pdf/Il_galeone.pdf) ; BTAS : la
 
 1. hm-mm-mm-mmmm hm-mm hm-mm<br />
 hm-hm-hm-mmmm hm-mm-mmmm<br />
@@ -897,7 +897,7 @@ O libertà o morte!<br />
 ## Addio Lugano bella
 [top](#paroles) <br/>
 
-> BTAS : fa la do do
+> [PDF](pdf/Addio_Lugano_bella.pdf) ; BTAS : fa la do do
 
 1. Addio, Lugano bella, o dolce terra mia,<br/>
 scacciati senza colpa gli’anarchici van via<br/>
@@ -927,7 +927,7 @@ addio, bianche di neve montagne ticinesi,<br/>
 [top](#paroles) <br />
 
 *(Adaptation de "La lega").*<br />
-> AS : mi sol<br />
+> [PDF la lega](pdf/La_lega.pdf) ; AS : mi sol<br />
 
 1. Sebben che siamo donne<br />
 Paura non abbiamo<br />
@@ -997,7 +997,7 @@ Vogliam(o) la libertà**<br />
 [top](#paroles)<br/>
 
 *(version féministe)*<br />
-> BTAS : la <br />
+> [PDF](pdf/A_la_huelga.pdf) ; BTAS : la <br />
 
 1. A la huelga compañera, no vayas a trabajar<br />
 Deja'el cazo, la herramienta, el teclado y'el ipad<br />
@@ -1035,7 +1035,7 @@ A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
 ## Canción sin miedo
 [top](#paroles)<br />
 
-> BTAS : ré fa la ré<br />
+> [PDF](pdf/Cancion_sin_miedo.pdf) ; BTAS : ré fa la ré<br />
 
 1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah<br />
 
@@ -1106,7 +1106,7 @@ aaaah... | Al sororo rugir del amor<br />
 
 [aller à la version en catalan](#version-en-catalan) - [top](#paroles) <br />
 
-> BTAS : la
+> [PDF](pdf/L_estaca.pdf) ; BTAS : la
 
 1. Du temps où je n'étais qu'un gosse <br />
 Mon grand-père me disait souvent <br />
@@ -1171,7 +1171,7 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 
 [Aller à la version en français](#version-en-français) - [top](#paroles) <br />
 
-> BTAS : la
+> [PDF](pdf/L_estaca.pdf) ; BTAS : la
 
 1. L’avi	Siset	em	parlava<br />
 De	bon	matí al	portal<br />
@@ -1235,7 +1235,7 @@ I’ens podrem aliberar.<br />
 ## Here's to you 
 [top](#paroles) <br />
 
-> B(ATS) : ré (fa# la fa#)
+> [PDF](pdf/here's_to_you_la_rangeuse.pdf) ; B(ATS) : ré (fa# la fa#)
 
 1. *(B:)* doudoudou...<br />
 2. *(A:)* doudoudou...<br />
@@ -1249,7 +1249,7 @@ That agony is your triumph__ <br />
 ## The digger's song
 [top](#paroles) <br />
 
-> BTAS : si → mi
+> [PDF](pdf/The_diggers_song.pdf) ; BTAS : si → mi
 
 1. __You noble diggers all stand up now, stand up now,<br />
 You noble diggers all stand up now__ <br />
@@ -1283,6 +1283,8 @@ Stand up now, stand up now<br />
 
 ## In ale gasn
 [top](#paroles) <br />
+
+> [PDF](pdf/In_ale_gasn.pdf) ; AS : la la <br />
 
 *(Intro)* <br />
 1. *In ale gasn vu men geyt<br />
