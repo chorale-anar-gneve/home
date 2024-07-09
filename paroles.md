@@ -1334,6 +1334,55 @@ Daloy samederzhavyets v'rasey!<br />
 Hey, hey, daloy politsey!<br />
 Daloy samederzhavyets v'rasey!** <br />
 
+## In ale gasn - phrasé (test temporaire)
+
+*(Intro)* <br />
+1. *In'
+a | le | ga | sn | vu | men | geyt | - <br />
+Hert | men | za | bo | sto | vkes | - | - <br />
+Yin | glekh, | mey | dlekh, | kind | un | keyt | - <br />
+Shmue | sn | fun | pri | bov | kes | - | - <br />
+Yin | glekh, | mey | dlekh, | kind | un | keyt | - <br />
+Shmue | sn | fun | pri | bov | kes | - | -* <br />
+
+2. *Ge'
+nug | shoyn | bri | der | ho | re | ven, | Ge' <br /> 
+nug | shoyn | bor | gn | lay | en, | - | - <br />
+Makht | a | zab | o | sto | vke, | 'Lo | mir' <br />
+bri | der | zikh | ba | fra | yen! | - | - <br />
+Makht | a | zab | o | sto | vke, | 'Lo | mir' <br />
+bri | der | zikh | ba | fra | yen! | - | -* <br />
+
+*(Chant principal)* <br />
+
+3. Bri | i | der | un | shve | e | ster, | - <br />
+lu | mir | zikh | ge | hn | di | hent,| - <br />
+Lo | mir | Ni | ko | lay | kel | en | tse | bre | e | khn | di | vent! | - <br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+4. Brider un shvester, lomir zikh nit irtsn,<br />
+Lomir Nikolaykelen di yorelekh farkirtsn!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+5. Nekhtn hot er gefirt a vegele mit mist,<br />
+Haynt is er gevorn a kapitalist!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+6. Brider un shvester, lomir geyn tsuzamen,<br />
+Lomir Nikolaykelen bagrobn mit der mamen!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
+7. Kozakn, zhandarrnen, arop fun di ferd!<br />
+Der rusisher keyser ligt shoyn in dr'erd!<br />
+**Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!<br />
+Hey, hey, daloy politsey!<br />
+Daloy samederzhavyets v'rasey!** <br />
+
 
 [top](#paroles) <br />
 
