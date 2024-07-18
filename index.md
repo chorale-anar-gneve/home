@@ -6,8 +6,7 @@
 
 ## évènements à venir 
 
-- 11 juillet : répét à confirmer 
-- 18 juillet : répét à confirmer
+- 18 juillet : répét 19h à l'écoquartier de la jonction (demander infos accès via telegram)
 - 25 juillet : répét à confirmer 
 
 ## liens
