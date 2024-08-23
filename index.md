@@ -6,11 +6,11 @@
 
 ## évènements à venir 
 
-- concert ? le **31 août** 2024 en soutien, participation libre, à confirmer et préciser 
-- repet **5 septembre** 2024 à l'atelier 19-21h (programme : rue des Lilas, addio lugano bella, l'estaca en catalan et a la huelga)
-- repet ? (**12 septembre** 2024 si assez de monde, à voir)
-- repet **19 septembre** 2024 à l'atelier 19h-21h
-- repet ? (**26 septembre** 2024 si assez de monde, à voir)
+- concert ? le __31 août__ 2024 en soutien, participation libre, à confirmer et préciser 
+- repet : __5 septembre__ 2024 à l'atelier 19-21h (programme : rue des Lilas, addio lugano bella, l'estaca en catalan et a la huelga)
+- repet ? __12 septembre__ 2024 si assez de monde, à confirmer et préciser 
+- repet : __19 septembre__ 2024 à l'atelier 19h-21h
+- repet ? __26 septembre__ 2024 si assez de monde, à confirmer et préciser 
 
 Adresse de l'atelier : Rue de la Coulouvrenière 11, 1204 Genève.
 
