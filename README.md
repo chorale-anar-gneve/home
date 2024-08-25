@@ -9,5 +9,4 @@ Pour éditer le contenu du site, il vous faut un compte github ainsi que le stat
 - ajouter les paroles de "déjà mal mariée", "cinturini"
 - ajouter la partition de "les voleurs d'eau" et le lien vers le PDF quand on l'aura
 - idée de réécrire les paroles de "el pueblo unido"
-- ajouter les tonalités pour chaque chanson ? (pour éventuel accompagnement instrumental)
 - essayer d'ajouter un favicon (fichier déjà uploadé, il faudrait voir pour l'intégrer aux pages)
