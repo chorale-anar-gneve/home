@@ -4,9 +4,6 @@
 
 [→ paroles](./paroles.md)
 
-qr code pour partager les paroles plus facilement avec d'autres personnes : 
-![QR code pour partager la page des paroles](/assets/QRparoles.png)
-
 ## évènements à venir 
 
 - concert ? le __31 août__ 2024 en soutien, participation libre, à confirmer et préciser 
