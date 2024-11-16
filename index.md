@@ -6,9 +6,11 @@
 
 ## évènements à venir 
 
-- le __3 octobre__ 2024 : repet à l'atelier 19-21h (programme : A la huelga, A bas l'état policier, Il galeone, In ale gasn (test))
-- le __17 octobre__ 2024 : repet à l'atelier 19-21h
-- le __31 octobre__ 2024 : repet à l'atelier 19-21h 🎃
+- le __28 novembre__ 2024 : repet à l'atelier 19-21h (programme : la vie s'écoule, in ale gasn, fille de, clémence, la révolte, la Makhno)
+- le __1er décembre__ 2024 ? : possible jam à Genève pour Lou' et XR (à confirmer)
+- le __7 ou 8 décembre__ 2024 ? : possible concert au marché des Hirondelles à Genève (à confirmer)
+- le __12 décembre__ 2024 : repet à l'atelier 19-21h
+- le __26 décembre__ 2024 ? : possible concert à la Chaux-de-Fonds pour les Sansculotides (à confirmer)
 
 Adresse de l'atelier : Rue de la Coulouvrenière 11, 1204 Genève.
 
