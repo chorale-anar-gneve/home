@@ -372,7 +372,7 @@ J’habiterai le trouble jusque dans les cités<br />
 Où nous aurons tissé des liens d’adelphité<br /><br />
 Je n’aime pas le lys, je n’aime pas la croix<br />
 Une est pour les curés, et l’autre est pour les rois<br />
-Si j’aime mon pays, la terre qui m’a vu naître<br />
+Si j’aime cette terre, celle qui m'a vue naître<br />
 Je ne veux pas de dieu, je ne veux pas de maître<br />
 Je ne veux pas de dieu, je ne veux pas de maître<br />
 
