@@ -5,28 +5,41 @@
 [→ paroles](./paroles.md)
 
 ## évènements à venir 
-- le __13 décembre__ 2024 : concert #1 à la Maison Verte à 19h 
-- le __13 décembre__ 2024 : concert #2 le soir au Zoo pour la globale de l'Usine, à 00h30 
-- le __26 décembre__ 2024 : concert à la Chaux-de-Fonds pour les Sansculotides, durant l'après-midi
-- le __9 janvier__ 2025 : repet ? (à confirmer)
+
+- le __9 janvier__ 2025 : repet
 - le __23 janvier__ 2025 : la repet ne pourra pas avoir lieu à l'atelier, voir si on déplace (dans l'espace ou dans le temps)
+- le __1er février__ 2025 : concert à Berne dans le cadre du [Tour de Lorraine](https://www.tourdelorraine.ch/)
 
 Adresse de l'atelier : Rue de la Coulouvrenière 11, 1204 Genève. 2ème étage (malheureusement sans ascenseur).
 
-## programme concerts du 13.12
-1. Allez les gars 
-2. La vie s'écoule 
-3. Clémence en vacances 
-4. Fille de 
-5. La Makhnovchina
-6. Lugano Bella
-7. Bella ciao
-8. L'estaca = Le pieu (en français) - final
+## détails pour le 1er février (merci Elsa !)
 
-Bis 1 : Here's to you
-Bis 2 : Allez les gars (refaire)
+Hello ! :-) J'ai eu des infos pour le 1er février via le canal de la chorale de Bienne :
 
-Réserve : il galleone, la révolte
+Vers 18:00 arrivée de la chorale de Lausanne en gare de Berne
+
+(on pourrait faire une repet dans un coin entre 18:30 et 20:00, une soupe est aussi prévue)
+
+Line up:
+20:00 Choeur de Biu
+20:25 lalala coeur
+21:50 tutti: Guggisberg
+Pause 
+21:10 Interkultureller Chor
+21:35 Chorale Anarchiste
+22:00 tutti: Kleine Leute (Canon) 
+ 
+Chants prévus par la Chorale anarchiste de Lausanne :
+Hegoak
+L'erba d'Agram
+La Lega
+La rue des Lilas
+Diggers'song
+Alla Huelga
+
+Chants qu'on chanterait touxtes en choeur:
+Guggisberg
+Kleine Leute
 
 ## liens
 - notre email : la *tiret* korage *at* riseup *point* net (compter un délai de réponse)
@@ -35,8 +48,10 @@ Réserve : il galleone, la révolte
 - [readme](./README.md)
 - [license](./LICENSE)
 
-## historique
-
+## historique (incomplet)
+- le __26 décembre__ 2024 : concert à la Chaux-de-Fonds pour les Sansculotides
+- le __13 décembre__ 2024 : concert #2 le soir au Zoo pour la globale de l'Usine, à 00h30 
+- le __13 décembre__ 2024 : concert #1 à la Maison Verte à 19h 
 - le __12 décembre__ 2024 : repet à l'atelier 19-21h 
 - le __1er décembre__ 2024 : jam pour Lou' et XR, 13h à la Maison Verte (place des Grottes, Genève)
 
