@@ -27,6 +27,8 @@
 [Here's to you](#heres-to-you)<br />
 [The digger's song](#the-diggers-song)<br />
 [In ale gasn](#in-ale-gasn)<br />
+[Das alte Guggisberger Lied](#das-alte-guggisberger-lied)<br />
+[Kleine_Leute](#kleine-leute)<br />
 
 ## Pianos en ligne
 - [online piano 1 - online pianist](https://www.onlinepianist.com/virtual-piano)
@@ -727,7 +729,7 @@ __Qu'on l'entendE dans la rue Royaume__ <br />
 [top](#paroles) <br />
 
 *(Chanson d'Henri Salvador)*
-> notes de départ ? (partition ?)
+> [PDF](pdf/les_voleurs_d_eau.pdf) ; BTAS : mi
 
 1. Ils détournent la rivière, là haut, là haut<br />
 Ils se moquent de nos misères, là haut, là haut<br />
@@ -1382,6 +1384,48 @@ Der rusisher keyser ligt shoyn in dr'erd!<br />
 Daloy samederzhavyets v'rasey!<br />
 Hey, hey, daloy politsey!<br />
 Daloy samederzhavyets v'rasey!** <br />
+
+## Das alte Guggisberger Lied
+[top](#paroles) <br />
+
+> [PDF](pdf/das-alte-guggisberger-lied.pdf) ; B=T|A=S : ré
+
+1. S'isch äben e Mönsch uf Erde – Simeliberg!<br />
+S'isch äben e Mönsch uf Erde – Simeliberg!<br />
+Und s'Vreneli ab em Guggisberg<br />
+Und ds Simes Hans-Joggeli änet dem Berg !<br />
+s'isch äben e Mönsch uf Erde,<br />
+Dass i möcht bi-n-em si.<br />
+
+2. U mah-n-er mir nit werde – Simeliberg!<br />
+U mah-n-er mir nit werde – Simeliberg!<br />
+Und s'Vreneli ab em Guggisberg<br />
+Und ds Simes Hans-Joggeli änet dem Berg !<br />
+Und mah-n-er mir nit werde,<br />
+Vor Chummer stirben-i.<br />
+
+3. Dört unten i der Tiefi – Simeliberg!<br />
+Dört unten i der Tiefi – Simeliberg!<br />
+Und s'Vreneli ab em Guggisberg<br />
+Und ds Simes Hans-Joggeli änet dem Berg !<br />
+Dört unten i der Tiefi,<br />
+Da steit es Mülirad.<br />
+
+4. Das mahlet nüt as Liebi – Simeliberg!<br />
+Das mahlet nüt as Liebi – Simeliberg!<br />
+Und s'Vreneli ab em Guggisberg<br />
+Und ds Simes Hans-Joggeli änet dem Berg !<br />
+Das mahlet nüt as Liebi,<br />
+Die Nacht und auch den Tag.<br />
+
+## Kleine Leute
+[top](#paroles) <br />
+
+> [PDF](pdf/kleine-leute-kanon-karl-adamek.pdf) ; BTAS : si si sol mi
+
+Viele kleine Leute an vielen kleinen Orten,
+die viele kleine Schritte tun,
+können die Welt verändern.
 
 
 [top](#paroles) <br />
