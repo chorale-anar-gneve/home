@@ -6,9 +6,12 @@
 
 ## évènements à venir 
 
-- le __9 janvier__ 2025 : repet
+- le __9 janvier__ 2025 : repet 19h-21h
 - le __23 janvier__ 2025 : la repet ne pourra pas avoir lieu à l'atelier, voir si on déplace (dans l'espace ou dans le temps)
-- le __1er février__ 2025 : concert à Berne dans le cadre du [Tour de Lorraine](https://www.tourdelorraine.ch/)
+- le __1er février__ 2025 : concert à Berne dans le cadre du [Tour de Lorraine](https://www.tourdelorraine.ch) (voir ci-dessous)
+- le __6 février__ 2025 : repet 19h-21h
+- le __20 février__ 2025 : repet 19-21h
+- mars : atelier en travaux !
 
 Adresse de l'atelier : Rue de la Coulouvrenière 11, 1204 Genève. 2ème étage (malheureusement sans ascenseur).
 
@@ -48,7 +51,7 @@ Kleine Leute
 - [readme](./README.md)
 - [license](./LICENSE)
 
-## historique (incomplet)
+## historique récent
 - le __26 décembre__ 2024 : concert à la Chaux-de-Fonds pour les Sansculotides
 - le __13 décembre__ 2024 : concert #2 le soir au Zoo pour la globale de l'Usine, à 00h30 
 - le __13 décembre__ 2024 : concert #1 à la Maison Verte à 19h 
