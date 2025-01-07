@@ -729,7 +729,7 @@ __Qu'on l'entendE dans la rue Royaume__ <br />
 [top](#paroles) <br />
 
 *(Chanson d'Henri Salvador)*
-> [PDF](pdf/les_voleurs_d_eau.pdf) ; BTAS : mi
+> [PDF](pdf/Les_Voleurs_d_eau.pdf) ; BTAS : mi
 
 1. Ils détournent la rivière, là haut, là haut<br />
 Ils se moquent de nos misères, là haut, là haut<br />
@@ -1388,7 +1388,7 @@ Daloy samederzhavyets v'rasey!** <br />
 ## Das alte Guggisberger Lied
 [top](#paroles) <br />
 
-> [PDF](pdf/das-alte-guggisberger-lied.pdf) ; B=T|A=S : ré
+> [PDF](pdf/Das-Alte-Guggisberger-Lied.pdf) ; B=T,A=S : ré
 
 1. S'isch äben e Mönsch uf Erde – Simeliberg!<br />
 S'isch äben e Mönsch uf Erde – Simeliberg!<br />
@@ -1421,11 +1421,11 @@ Die Nacht und auch den Tag.<br />
 ## Kleine Leute
 [top](#paroles) <br />
 
-> [PDF](pdf/kleine-leute-kanon-karl-adamek.pdf) ; BTAS : si si sol mi
+> [PDF](pdf/Kleine-Leute-Kanon-Karl-Adamek.pdf) ; BTAS : si si sol mi
 
-Viele kleine Leute an vielen kleinen Orten,
-die viele kleine Schritte tun,
-können die Welt verändern.
+Viele kleine Leute an vielen kleinen Orten,<br />
+die viele kleine Schritte tun,<br />
+können die Welt verändern.<br /
 
 
 [top](#paroles) <br />
