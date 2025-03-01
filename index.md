@@ -21,7 +21,7 @@ En mars, l'ateliter est en travaux !
 - [license](./LICENSE)
 
 ## historique récent
-- - le __1er février__ 2025 : concert à Berne dans le cadre du [Tour de Lorraine](https://www.tourdelorraine.ch)
+- le __1er février__ 2025 : concert à Berne dans le cadre du [Tour de Lorraine](https://www.tourdelorraine.ch)
 - le __26 décembre__ 2024 : concert à la Chaux-de-Fonds pour les Sansculotides
 - le __13 décembre__ 2024 : concert #2 le soir au Zoo pour la globale de l'Usine, à 00h30 
 - le __13 décembre__ 2024 : concert #1 à la Maison Verte à 19h 
