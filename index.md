@@ -8,6 +8,7 @@
 
 - le __6 mars__ 2025 : repet 19h-21h @ecoquartier de la jonction (contactez-nous via insta ou mail pour + de détails)
 - le __20 mars__ 2025 : repet 19h-21h @ecoquartier de la jonction (contactez-nous via insta ou mail pour + de détails)
+- le __22 mars__ 2025 : participation au [Carnaval Populaire et Deter](https://renverse.co/infos-locales/article/carnaval-populaire-et-deter-6034) à Lausanne (12h30 prep. déguisements, 15h32 départ cortège)
 
 En mars, l'ateliter est en travaux !
 (Adresse de l'atelier : Rue de la Coulouvrenière 11, 1204 Genève. 2ème étage (malheureusement sans ascenseur)).
